@@ -25,7 +25,30 @@
 ## 实时统计与按需订阅
 
 <!-- STATS:START -->
-首次检测完成后，这里会自动更新。
+
+**最近更新：2026-11-19 10:47（北京时间）**｜存活节点 **287**｜存活率 **68.0%**
+
+| 地区 | 存活数 | 订阅文件（Clash 格式） | 详情页 |
+| --- | --- | --- | --- |
+| 美国 | 20 | [us.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/us.yaml) | [/nodes/us/](https://crazygeeky.com/nodes/us/) |
+| 日本 | 0 | 数量少于 5，暂不提供 | — |
+| 新加坡 | 0 | 数量少于 5，暂不提供 | — |
+| 香港 | 39 | [hk.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/hk.yaml) | [/nodes/hk/](https://crazygeeky.com/nodes/hk/) |
+| 台湾 | 9 | [tw.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/tw.yaml) | [/nodes/tw/](https://crazygeeky.com/nodes/tw/) |
+| 其他 | 219 | [other.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/other.yaml) | [/nodes/other/](https://crazygeeky.com/nodes/other/) |
+
+| 解锁 | 存活数 | 订阅文件（Clash 格式） | 详情页 |
+| --- | --- | --- | --- |
+| Netflix | 0 | 数量少于 5，暂不提供 | — |
+| ChatGPT | 0 | 数量少于 5，暂不提供 | — |
+| Disney+ | 0 | 数量少于 5，暂不提供 | — |
+| YouTube | 0 | 数量少于 5，暂不提供 | — |
+| Gemini | 0 | 数量少于 5，暂不提供 | — |
+
+![trend](data/trend.svg)
+
+历史数据：[data/history.csv](data/history.csv)｜完整统计：[https://crazygeeky.com/nodes/](https://crazygeeky.com/nodes/)
+
 <!-- STATS:END -->
 
 ## 更多格式与文档
