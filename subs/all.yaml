@@ -1,0 +1,3342 @@
+proxies:
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇮🇹IT_1|570KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.99
+  skip-cert-verify: false
+  tls: false
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇩🇪DE_1|1.3MB/s
+  network: ws
+  port: 2087
+  server: 172.67.79.160
+  servername: cvhpyn.pages.dev
+  skip-cert-verify: false
+  sni: cvhpyn.pages.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: a4a951b9-901d-4db8-8a7d-6df82c4b5c23
+  ws-opts:
+    headers:
+      Host: cvhpyn.pages.dev
+    path: /
+- name: crazygeeky | 🇩🇪DE_2|574KB/s
+  network: ws
+  port: 443
+  server: 188.114.97.6
+  servername: dfsuporte.garena.com.ex33r.eu.cc
+  skip-cert-verify: false
+  sni: dfsuporte.garena.com.ex33r.eu.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4bde8d55-d91c-45e9-9b36-e6448a194527
+  ws-opts:
+    headers:
+      Host: dfsuporte.garena.com.ex33r.eu.cc
+    path: /sg-amz
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇬🇧GB_1|522KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 185.176.206.9
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇳🇱NL_1|803KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 151.241.19.36
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_2|1006KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.181
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_3|1.2MB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.210
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_4|573KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.207
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_5|651KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.216
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_6|735KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.214
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_7|895KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.184
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_8|720KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.203
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_9|1.1MB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.202
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_10|749KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.208
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_11|581KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.189
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇩🇪DE_3|570KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 23.157.88.43
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇩🇪DE_4|963KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 57.129.83.85
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇩🇪DE_5|991KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 193.108.119.3
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇩🇪DE_6|770KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 193.108.119.2
+  type: ss
+- name: crazygeeky | 🇩🇪DE_7|993KB/s
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 193.108.119.15
+  skip-cert-verify: false
+  sni: courses.iloverussia2026.com
+  type: trojan
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_12|1.4MB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.180
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇫🇷FR_1|1.1MB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 172.99.189.142
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇺🇸US_1|929KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 38.91.107.188
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇬🇧GB_2|586KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 198.244.202.215
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇨🇭CH_1|527KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 23.166.88.127
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇬🇧GB_3|762KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 198.244.201.129
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇫🇷FR_2|665KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 23.162.152.22
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_13|1.0MB/s
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 443
+  server: 82.38.31.162
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇪🇸ES_1|1.3MB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 167.17.71.167
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_14|1.6MB/s
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 82.38.31.49
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_15|586KB/s
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 178.83.185.156
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇫🇷FR_3|756KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 167.17.64.27
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇬🇧GB_4|1.1MB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 38.114.120.221
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇨🇭CH_2|568KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 186.190.215.251
+  type: ss
+- name: crazygeeky | 🇨🇭CH_3|1.1MB/s
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 208.69.78.33
+  skip-cert-verify: false
+  sni: courses.yourultimateprofessionalcareerhub.com
+  type: trojan
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇨🇦CA_1|1.2MB/s
+  password: zDNVedRFPQexG9v
+  port: 445
+  server: 51.222.141.125
+  type: ss
+- cipher: aes-256-cfb
+  name: crazygeeky | 🇪🇸ES_2|679KB/s
+  password: U6qnYRhfyDmn8sgn
+  port: 9041
+  server: 5.188.181.201
+  type: ss
+- cipher: aes-256-cfb
+  name: crazygeeky | 🇪🇸ES_3|582KB/s
+  password: EXN3S3eQpjE7EJu8
+  port: 9027
+  server: 5.188.181.201
+  type: ss
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇨🇭CH_4|652KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 79.127.184.104
+  type: ss
+- cipher: aes-256-cfb
+  name: crazygeeky | 🇪🇸ES_4|983KB/s
+  password: M3t2ZEQcMGRWBjRa
+  port: 9011
+  server: 5.188.181.201
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_16|638KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.218
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_17|585KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.205
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_18|610KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: 8080
+  server: 82.38.31.199
+  type: ss
+- client-fingerprint: firefox
+  name: crazygeeky | 🇫🇮FI_1|620KB/s
+  network: xhttp
+  port: '9443'
+  reality-opts:
+    public-key: zd4L59ejBo94N8N9GQtZMox2eBBF9TQf2TLyIgpwlCg
+    short-id: fd7624659f1e7d66
+  server: 191.217.206.147
+  servername: fin.krabvpn.pro
+  tls: true
+  type: vless
+  udp: true
+  uuid: 0b22812b-4a79-42b1-93ec-5b157b0f2f7f
+  xhttp-opts:
+    host: fin.krabvpn.pro
+    mode: auto
+    path: /assets/246a109dceaa6b7832a98d17
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇫🇮FI_2|525KB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: Wv7JkcxhkaWGIl2YjzM_8jlmAS99IwsvseYDSIkqt1k
+    short-id: ''
+  server: 2.26.191.219
+  servername: gsdfhjb.wey-land.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  grpc-opts:
+    grpc-service-name: api-mod
+  name: crazygeeky | 🇩🇪DE_8|926KB/s
+  network: grpc
+  port: '443'
+  reality-opts:
+    public-key: eyEGQfdxyhZG0bCKlwp8hSihdc5WHTGmw4umrW4_bxY
+    short-id: ''
+  server: 37.114.37.192
+  servername: api-mod.storagedirectguide.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6
+  xudp: true
+- name: crazygeeky | 🇳🇱NL_19|809KB/s
+  password: 549766c3-fa5f-471e-8031-ffc1f8d5064f
+  port: 443
+  server: 212.34.137.105
+  skip-cert-verify: true
+  sni: shorts.blog-forme.ru
+  tls: false
+  type: hysteria2
+- name: crazygeeky | 🇩🇪DE_9|1.6MB/s
+  password: 549766c3-fa5f-471e-8031-ffc1f8d5064f
+  port: 443
+  server: guide.blog-forme.ru
+  tls: false
+  type: hysteria2
+- name: crazygeeky | 🇩🇪DE_10|898KB/s
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 18.194.242.173
+  skip-cert-verify: true
+  sni: 127.0.0.1
+  tls: false
+  type: hysteria2
+- name: crazygeeky | 🇩🇪DE_11|2.1MB/s
+  obfs: salamander
+  obfs-password: Telegram@vpnjey
+  password: VPNJEy
+  port: 36264
+  server: 179.61.138.145
+  skip-cert-verify: true
+  sni: de2.jey.cc.cd
+  tls: false
+  type: hysteria2
+- name: crazygeeky | 🇵🇱PL_1|582KB/s
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 179.254.191.251
+  sni: bl1.nexfile.net
+  tls: false
+  type: hysteria2
+- name: crazygeeky | 🇳🇱NL_20|840KB/s
+  password: d4ca9415f0eac7897472e1e5b86d2e96
+  port: 443
+  server: 50.7.38.243
+  sni: promo.betust.net
+  tls: false
+  type: hysteria2
+- name: crazygeeky | 🇩🇪DE_12|773KB/s
+  password: fa937345-6d3e-4ff4-8127-1a836987a0db
+  port: 5443
+  server: 195.63.128.21
+  sni: germany.cloudhouse1.ru
+  tls: false
+  type: hysteria2
+- name: crazygeeky | 🇬🇧GB_5|2.0MB/s
+  password: fa937345-6d3e-4ff4-8127-1a836987a0db
+  port: 10444
+  server: 195.63.138.212
+  sni: cloudehouse24.ru
+  tls: false
+  type: hysteria2
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: crazygeeky | 🇳🇱NL_21|621KB/s
+  port: 443
+  server: 194.60.228.97
+  servername: base.hosamobenl.co.uk
+  tls: true
+  type: vless
+  uuid: 667016ca-f02e-4b5f-bfc3-3d8ed81e9bec
+- encryption: none
+  name: crazygeeky | 🇩🇪DE_13|873KB/s
+  network: ws
+  port: 2052
+  server: 104.18.109.147
+  tls: false
+  type: vless
+  uuid: c29d39bd-92a4-45db-bb61-56013998617c
+  ws-opts:
+    headers:
+      Host: www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com
+    path: /Telegram-XV2ry2?ed=2048
+- cipher: 2022-blake3-chacha20-poly1305
+  name: crazygeeky | 🇩🇪DE_14|643KB/s
+  password: uou5NTq+xna9PBIG+8jtSSyQ6idxiXZgeK+Uw52qopY=
+  port: 59924
+  server: 130.61.145.251
+  type: ss
+- ip: 172.16.0.2/32
+  mtu: 1380
+  name: crazygeeky | 🇮🇹IT_2|1002KB/s
+  port: 3581
+  presharedkey: ''
+  private-key: 2FaqTm+aXdVK00dvbeuMW/t741BWYu9lNOOVtMI4R3Y=
+  public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+  reserved:
+  - 80
+  - 103
+  - 64
+  server: 162.159.192.11
+  type: wireguard
+  udp: true
+- name: crazygeeky | 🇹🇷TR_1|568KB/s
+  network: tcp
+  port: 57231
+  server: 87.76.154.28
+  tls: false
+  type: vless
+  udp: true
+  uuid: c34a41b6-598f-46ac-bea3-8b39a906f922
+  ws-opts:
+    path: /
+- name: crazygeeky | 🇹🇭TH_1|838KB/s
+  password: VAwyJQX0iKMJiyCw5UVK9wGH
+  port: 42000
+  server: 103.14.164.202
+  type: socks5
+  username: route164JIa2CBPxfy
+- client-fingerprint: chrome
+  name: crazygeeky | 🇩🇪DE_15|544KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 193.108.119.15
+  skip-cert-verify: false
+  sni: courses.iloverussia2026.com
+  type: trojan
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_22|636KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: '8080'
+  server: 82.38.31.195
+  type: ss
+  udp: true
+- cipher: 2022-blake3-chacha20-poly1305
+  name: crazygeeky | 🇳🇱NL_23|869KB/s
+  password: fGUGXAutES7Y5cpEYfB8g+M2mC72cIy5WJJ3azmDgW0=
+  port: '45819'
+  server: 141.144.195.47
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇵🇱PL_2|946KB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: 1eEtiZY5qDDosntp-9_xFnOIvOBzHy4d3-eA7v11qx0
+    short-id: ''
+  server: 144.31.0.101
+  servername: gmtrtb.wey-land.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6
+  xudp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇩🇪DE_16|667KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 193.108.119.78
+  skip-cert-verify: false
+  sni: www.iloverussia2026.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇺🇸US_2|838KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 169.197.140.208
+  skip-cert-verify: false
+  sni: blog.discoverfreshgraduatejobsstartyourprofessionaljourney.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇺🇸US_3|1.2MB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 216.152.156.65
+  skip-cert-verify: false
+  sni: learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com
+  type: trojan
+  udp: true
+- alpn:
+  - ''
+  alterId: '0'
+  cipher: auto
+  name: crazygeeky | 🇺🇸US_4|818KB/s
+  network: tcp
+  port: '18000'
+  server: 38.110.1.246
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+  xudp: true
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_24|604KB/s
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: '443'
+  server: 82.38.31.165
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇳🇱NL_25|617KB/s
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 66.163.127.155
+  skip-cert-verify: false
+  sni: indyourperfectremotetechjobfromthecomfortofhome.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇳🇱NL_26|676KB/s
+  network: tcp
+  port: '443'
+  server: 31.58.213.31
+  servername: app.streamru2.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: fd90e601-a56c-42b8-aab7-aa02d26fcb04
+  xudp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇩🇪DE_17|525KB/s
+  network: tcp
+  port: '8443'
+  reality-opts:
+    public-key: wgyw3OxZw4HEzedNdY_eHdcVkrtT7GEeZSHfzcZ8iDo
+    short-id: 168c15efac9df5fd
+  server: 144.31.140.125
+  servername: twitch.tv
+  tls: true
+  type: vless
+  udp: true
+  uuid: f5e70ce3-cfb4-4df1-b25c-d19bfae627c0
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇳🇱NL_27|622KB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8
+    short-id: 15affa0af66dfc79
+  server: 130.12.242.106
+  servername: deepl.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: bc058e69-0444-4c7b-98da-bd67f0b143da
+  xudp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇳🇱NL_28|928KB/s
+  network: tcp
+  port: '443'
+  server: 194.60.228.97
+  servername: base.hosamobenl.co.uk
+  tls: true
+  type: vless
+  udp: true
+  uuid: 667016ca-f02e-4b5f-bfc3-3d8ed81e9bec
+  xudp: true
+- alterId: '0'
+  cipher: auto
+  name: crazygeeky | 🇬🇧GB_6|1.0MB/s
+  network: tcp
+  port: 1270
+  server: 142.202.51.42
+  servername: xmfhlpy.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇩🇪DE_18|1.5MB/s
+  network: tcp
+  port: '443'
+  server: app.streamru1.com
+  servername: app.streamru1.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: fd90e601-a56c-42b8-aab7-aa02d26fcb04
+  xudp: true
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇩🇪DE_19|894KB/s
+  password: XKFKl2rULjIp74
+  port: '8008'
+  server: 185.226.172.8
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇩🇪DE_20|862KB/s
+  network: tcp
+  port: '443'
+  server: app.streamru14.net
+  servername: app.streamru14.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: fd90e601-a56c-42b8-aab7-aa02d26fcb04
+  xudp: true
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_29|1.2MB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: '8080'
+  server: 193.29.139.198
+  type: ss
+  udp: true
+- cipher: 2022-blake3-chacha20-poly1305
+  name: crazygeeky | 🇩🇪DE_21|600KB/s
+  password: 8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=
+  port: '443'
+  server: 8.220.81.25
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇺🇸US_5|588KB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.35
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+  xudp: true
+- alpn:
+  - ''
+  alterId: '0'
+  cipher: auto
+  name: crazygeeky | 🇺🇸US_6|829KB/s
+  network: tcp
+  port: '18000'
+  server: 38.110.1.246
+  servername: 38.110.1.246
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+  xudp: true
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇩🇪DE_22|1.2MB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: '19999'
+  server: 193.108.119.83
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇳🇱NL_30|554KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 66.163.127.107
+  skip-cert-verify: false
+  sni: blog.indyourperfectremotetechjobfromthecomfortofhome.com
+  type: trojan
+  udp: true
+- cipher: 2022-blake3-chacha20-poly1305
+  name: crazygeeky | 🇩🇪DE_23|1004KB/s
+  password: 8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=
+  port: '443'
+  server: 47.245.167.223
+  type: ss
+  udp: true
+- alterId: '0'
+  cipher: auto
+  name: crazygeeky | 🇳🇱NL_31|881KB/s
+  network: tcp
+  port: 1270
+  server: 188.166.81.135
+  servername: xmfhlpy.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
+  xudp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇩🇪DE_24|962KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 193.108.119.134
+  skip-cert-verify: false
+  sni: api.iloverussia2026.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_25|1.4MB/s
+  network: ws
+  port: '443'
+  server: 188.114.97.6
+  servername: quiz.int.vidio.com.ex33r.eu.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 63ec2a82-e47c-4782-a89e-9aca2baf17ef
+  ws-opts:
+    headers:
+      Host: quiz.int.vidio.com.ex33r.eu.cc
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/67.0.3396.87 Safari/537.36
+    path: /id-pusat
+  xudp: true
+- alterId: '0'
+  cipher: auto
+  name: crazygeeky | 🇫🇷FR_4|906KB/s
+  network: tcp
+  port: 1270
+  server: 162.19.82.57
+  servername: xmfhlpy.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
+  xudp: true
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇸🇪SE_1|662KB/s
+  network: tcp
+  port: '443'
+  server: lodizu.hagrid-connected.com
+  servername: lodizu.hagrid-connected.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: beda6bd0-7ce4-477a-91f1-860d018dbfcb
+  xudp: true
+- encryption: none
+  name: crazygeeky | 🇩🇪DE_26|542KB/s
+  network: ws
+  port: '80'
+  server: 170.114.45.6
+  servername: 170.114.45.6
+  type: vless
+  udp: true
+  uuid: f028d829-249a-4692-b45f-1b4cde8ef0c7
+  ws-opts:
+    headers:
+      Host: free.sahanwickramasinghe.com
+      User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/51.0.2704.106 Safari/537.36
+    path: /
+  xudp: true
+- cipher: aes-256-cfb
+  name: crazygeeky | 🇵🇱PL_3|701KB/s
+  password: N7j3pdTYkKmsy8CR
+  port: '9095'
+  server: 217.30.10.44
+  type: ss
+  udp: true
+- alterId: '0'
+  cipher: auto
+  name: crazygeeky | 🇺🇸US_7|669KB/s
+  network: tcp
+  port: '1270'
+  server: 162.251.61.46
+  servername: xmfhlpy.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
+  xudp: true
+- cipher: aes-256-cfb
+  name: crazygeeky | 🇧🇬BG_1|941KB/s
+  password: VcFuyXvND2yQWSFY
+  port: '9054'
+  server: 213.183.63.60
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇳🇱NL_32|752KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 66.163.127.44
+  skip-cert-verify: false
+  sni: learn.indyourperfectremotetechjobfromthecomfortofhome.com
+  type: trojan
+  udp: true
+- encryption: none
+  name: crazygeeky | 🇩🇪DE_27|525KB/s
+  network: ws
+  port: '80'
+  server: 104.21.227.134
+  type: vless
+  udp: true
+  uuid: 0991a0c4-0ee5-4213-af89-7ad589f853f3
+  ws-opts:
+    headers:
+      Host: elenaaaaaaaaaa.cloudns.pro
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/48.0.2564.116 Safari/537.36
+    path: /ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY
+  xudp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇺🇸US_8|708KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 66.163.122.26
+  skip-cert-verify: false
+  sni: blog.searchnationwidecareerchangehelperandguidancetoday.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇺🇸US_9|644KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 216.152.156.212
+  skip-cert-verify: false
+  sni: courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com
+  type: trojan
+  udp: true
+- encryption: none
+  name: crazygeeky | 🇩🇪DE_28|642KB/s
+  network: ws
+  port: '80'
+  server: ov-germany1.09vpn.com
+  type: vless
+  udp: true
+  uuid: 7d74eae4-8a06-4306-a923-ad686f30bf26
+  ws-opts:
+    headers:
+      Host: OV-Germany1.09vpn.com
+      User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/46.0.2490.80 Safari/537.36
+    path: /vless/
+  xudp: true
+- cipher: 2022-blake3-chacha20-poly1305
+  name: crazygeeky | 🇳🇱NL_33|666KB/s
+  password: rx1e8SsjGM7ZKlR0tLnzSWoxhyRRJJrcTccM3uMu+Rc=
+  port: '45819'
+  server: 144.21.35.158
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇳🇱NL_34|1.5MB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 66.163.127.154
+  skip-cert-verify: false
+  sni: www.indyourperfectremotetechjobfromthecomfortofhome.com
+  type: trojan
+  udp: true
+- cipher: 2022-blake3-chacha20-poly1305
+  name: crazygeeky | 🇩🇪DE_29|776KB/s
+  password: 8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=
+  port: '443'
+  server: 8.209.106.54
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇷🇴RO_1|909KB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU
+    short-id: d06d78e974491b6e
+  server: 46.28.67.55
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d1a6a033-fdbd-46a6-a177-3370ba042b9f
+  xudp: true
+- alpn:
+  - ''
+  alterId: '0'
+  cipher: auto
+  name: crazygeeky | 🇩🇪DE_30|1.5MB/s
+  network: tcp
+  port: '3022'
+  server: web.qivzuma.ir
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: cd6b0091-b4c8-4ed2-bad9-5631b5afbd50
+  xudp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇨🇭CH_5|727KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 208.69.78.60
+  skip-cert-verify: false
+  sni: cdn.yourultimateprofessionalcareerhub.com
+  type: trojan
+  udp: true
+- encryption: none
+  name: crazygeeky | 🇩🇪DE_31|1.1MB/s
+  network: ws
+  port: '8080'
+  server: 104.21.70.21
+  servername: xstack.mahanfixe.workers.dev
+  type: vless
+  udp: true
+  uuid: a8b1d666-d3ba-4b17-90c4-ba7514c74f78
+  ws-opts:
+    headers:
+      Host: xstack.mahanfixe.workers.dev
+      User-Agent: Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36
+    path: /xiron
+  xudp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇩🇪DE_32|1.3MB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 193.108.119.34
+  skip-cert-verify: false
+  sni: cdn.iloverussia2026.com
+  type: trojan
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_35|965KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: '8080'
+  server: 82.38.31.204
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇨🇦CA_2|1.1MB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 216.152.147.152
+  skip-cert-verify: false
+  sni: learn.connectingpeoplewithgreatjobs.com
+  type: trojan
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_36|678KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: '8080'
+  server: 82.38.31.200
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  grpc-opts:
+    grpc-service-name: ebl
+  name: crazygeeky | 🇳🇱NL_37|1.2MB/s
+  network: grpc
+  port: '443'
+  reality-opts:
+    public-key: _KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU
+    short-id: ''
+  server: 94.183.164.176
+  servername: optim.tildacdn.pub
+  tls: true
+  type: vless
+  udp: true
+  uuid: b4192dfb-f458-4303-b877-29a41a6d8416
+  xudp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇨🇭CH_6|956KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 208.69.78.222
+  skip-cert-verify: false
+  sni: yourultimateprofessionalcareerhub.com
+  type: trojan
+  udp: true
+- cipher: 2022-blake3-chacha20-poly1305
+  name: crazygeeky | 🇩🇪DE_33|1.1MB/s
+  password: 8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=
+  port: '443'
+  server: 3.122.241.248
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇩🇪DE_34|1020KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 193.108.119.193
+  skip-cert-verify: false
+  sni: resources.iloverussia2026.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇵🇱PL_4|1.3MB/s
+  network: xhttp
+  port: '7443'
+  reality-opts:
+    public-key: NmMggGv5jmohnMmZytnLdenxmpNwa4P9E2PZW1EV8go
+    short-id: 5e25bf4462660ed8
+  server: 191.217.206.147
+  servername: pl-origin.krabvpn.pro
+  tls: true
+  type: vless
+  udp: true
+  uuid: 67864856-8730-40cc-9e1a-a0df697d912b
+  xhttp-opts:
+    mode: auto
+    path: /assets/7ae15be966a6bce1f00fa96a
+  xudp: true
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇩🇪DE_35|892KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: '19999'
+  server: 193.108.117.84
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇺🇸US_10|1.3MB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 216.152.155.158
+  skip-cert-verify: false
+  sni: resources.nextjobopportunityandclaimyouridealrole.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇨🇭CH_7|1.2MB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 208.69.78.33
+  skip-cert-verify: false
+  sni: courses.yourultimateprofessionalcareerhub.com
+  type: trojan
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_38|513KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: '8080'
+  server: 82.38.31.215
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇳🇱NL_39|564KB/s
+  network: tcp
+  port: '443'
+  server: nl.point.cookie-line.cc
+  servername: nl.point.cookie-line.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: dfe50e18-28ce-459e-a6b9-0f2585bcc3b6
+  xudp: true
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇹🇷TR_2|923KB/s
+  password: lZZzfo1mqH7PqnloAogdi2XBhlgiofMy
+  port: '2089'
+  server: tr.subscriptionservice.ir
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇪🇸ES_5|800KB/s
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 66.163.118.203
+  skip-cert-verify: false
+  sni: blog.discovergreatjobsandadvanceyourcareer.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇳🇱NL_40|1.1MB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 66.163.127.9
+  skip-cert-verify: false
+  sni: resources.indyourperfectremotetechjobfromthecomfortofhome.com
+  type: trojan
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_41|1.1MB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: '8080'
+  server: 82.38.31.211
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇩🇪DE_36|849KB/s
+  password: NcAXc0UZI6yQJE1p8QmOv8
+  port: '8388'
+  server: 57.129.113.16
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇩🇪DE_37|1.6MB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 82.39.171.12
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+  xudp: true
+- cipher: chacha20-ietf-poly1305
+  name: crazygeeky | 🇳🇱NL_42|538KB/s
+  password: k1dBOmOB4oqi7Ump37a1bQ
+  port: '8080'
+  server: 82.38.31.185
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇪🇸ES_6|587KB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE
+    short-id: 42426c882c5fcd41
+  server: 196.199.122.2
+  servername: 7aa271t.es1.h1clayd.click
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4201786b-d99b-4147-a5f0-20d47acddb81
+  xudp: true
+- client-fingerprint: ios
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇺🇸US_11|1.4MB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.229
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+  xudp: true
+- encryption: none
+  name: crazygeeky | 🇩🇪DE_38|953KB/s
+  network: ws
+  port: '8080'
+  server: www.gov.se
+  servername: www.gov.se
+  type: vless
+  udp: true
+  uuid: 989d58b8-d2ea-4d28-b5ff-0f3cd078f2cf
+  ws-opts:
+    headers:
+      Host: sdf23g-billowing-moon-348e.mzm468gc.workers.dev
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/70.0.3538.77 Safari/537.36
+    path: /
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_39|923KB/s
+  network: ws
+  port: '2087'
+  server: 172.67.79.160
+  servername: cvhpyn.pages.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: a4a951b9-901d-4db8-8a7d-6df82c4b5c23
+  ws-opts:
+    headers:
+      Host: cvhpyn.pages.dev
+      User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; SM-G7102 Build/KOT49H) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
+    path: /
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇧🇬BG_2|705KB/s
+  network: ws
+  port: '443'
+  server: 103.83.86.134
+  servername: v5-4b5.pages.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: bf14dc50-e9f2-49fd-8642-620446edeafb
+  ws-opts:
+    headers:
+      Host: v5-4b5.pages.dev
+      User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/55.0.2883.87 Safari/537.36
+    path: /
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_1|1.2MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.89
+  skip-cert-verify: true
+  sni: vk.com
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_2|1.1MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.174
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_3|1.2MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2ⁿß«ⁿß
+  type: hysteria2
+  up: ''
+- cipher: aes-256-cfb
+  name: crazygeeky | 🇧🇬BG_3|738KB/s
+  password: PRBf4BS2HvJqtWxY
+  port: '9049'
+  server: 213.183.63.60
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇺🇸US_12|589KB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.90
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_4|827KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: speedtest.tinkoff.ru
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  name: crazygeeky | 🇩🇪DE_40|516KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 193.108.119.78
+  skip-cert-verify: true
+  sni: 193.108.119.78
+  type: trojan
+  udp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇩🇪DE_41|1.1MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 3.76.203.180
+  skip-cert-verify: true
+  sni: 3.76.203.180
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇫🇷FR_5|2.5MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 13.36.234.11
+  skip-cert-verify: true
+  sni: vpn-fr-001.fastervpn.world
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_5|616KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2рҹүҹү
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇹🇼TW_1|629KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3
+  type: hysteria2
+  up: ''
+- cipher: rc4-md5
+  name: crazygeeky | 🇬🇧GB_7|740KB/s
+  password: 14fFPrbezE3HDZzsMOr6
+  port: '8080'
+  server: 146.70.46.199
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇨🇭CH_8|637KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: '19999'
+  server: 23.166.88.189
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: crazygeeky | 🇧🇬BG_4|1.0MB/s
+  password: aLpQtfEZe445QyHk
+  port: '9098'
+  server: 213.183.63.60
+  type: ss
+  udp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_6|1.2MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: 202.146.222.29
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_7|979KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2ôøωôøωôøωôøω
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇩🇪DE_42|1.5MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 18.193.79.104
+  skip-cert-verify: true
+  sni: 18.193.79.104
+  type: hysteria2
+  up: ''
+- alpn:
+  - http/1.1
+  client-fingerprint: unsafe
+  encryption: none
+  name: crazygeeky | 🇳🇱NL_43|768KB/s
+  network: ws
+  port: '443'
+  server: 188.114.98.0
+  servername: muddy-star-d195.aboumansour10313.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: eaf76557-2219-4799-8171-d7020adfefd0
+  ws-opts:
+    headers:
+      Host: muddy-star-d195.aboumansour10313.workers.dev
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/63.0.3239.132 Safari/537.36
+    path: /ws
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | ❓Other_1|643KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2🇨🇳
+  type: hysteria2
+  up: ''
+- client-fingerprint: firefox
+  encryption: none
+  name: crazygeeky | 🇫🇷FR_6|533KB/s
+  network: xhttp
+  port: '32202'
+  reality-opts:
+    public-key: bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc
+    short-id: f57d8f26
+  server: 62.210.24.143
+  servername: www.amazon.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 28148be2-61a7-4f36-8adb-030cc9f82bd0
+  xhttp-opts:
+    path: /G3EEoH63
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_8|1.5MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.89
+  skip-cert-verify: true
+  sni: https://t.me/clashv8🇨🇳
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_9|1.0MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2fwangcai2%c3%b0%c2%9f%c2%87%c2%a8%c3%b0%c2%9f%c2%87%c2%b3
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇺🇸US_13|553KB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.35
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+  xudp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇺🇸US_14|747KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 216.152.155.54
+  skip-cert-verify: true
+  sni: 216.152.155.54
+  type: trojan
+  udp: true
+- cipher: aes-256-cfb
+  name: crazygeeky | 🇱🇻LV_1|871KB/s
+  password: mwgRg9hRq3b4Qnwb
+  port: '9068'
+  server: 185.135.86.175
+  type: ss
+  udp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_10|973KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2fwangcai2%d1%80%d2%b9%d2%af
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇹🇷TR_3|2.6MB/s
+  obfs: salamander
+  obfs-password: 642516f2-f9bd-41ce-9904-dee699c39cf9
+  password: a81a7b45-dd70-42ef-822f-ef467f944382
+  port: '38045'
+  server: 153.56.210.134
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  up: ''
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇺🇸US_15|986KB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.168
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+  xudp: true
+- alpn:
+  - h3
+  auth_str: github.com/Alvin9999-newpac/fanqiang
+  down: '55'
+  name: crazygeeky | ❓Other_2|524KB/s
+  obfs: ''
+  port: '22335'
+  protocol: ''
+  server: 198.200.57.142
+  skip-cert-verify: true
+  sni: bing.com
+  type: hysteria
+  up: '11'
+- client-fingerprint: chrome
+  name: crazygeeky | 🇺🇸US_16|782KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 167.88.61.175
+  skip-cert-verify: false
+  sni: blog.browseseniorrolesandenhanceyourcareertoday.com
+  type: trojan
+  udp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_11|1.6MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇳🇱NL_44|750KB/s
+  network: ws
+  port: '443'
+  server: 104.18.151.231
+  servername: workers.retaxay188.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: eaf76557-2219-4799-8171-d7020adfefd0
+  ws-opts:
+    headers:
+      Host: workers.retaxay188.workers.dev
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/56.0.2924.87 Safari/537.36
+    path: /ws
+  xudp: true
+- cipher: aes-256-cfb
+  name: crazygeeky | 🇱🇻LV_2|678KB/s
+  password: UTJA57ypk2XKQpnm
+  port: '9033'
+  server: 185.135.86.175
+  type: ss
+  udp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_12|1.3MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.174
+  skip-cert-verify: true
+  sni: 202.146.222.174
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇹🇷TR_4|3.4MB/s
+  obfs: salamander
+  obfs-password: 9a33460c-b037-47aa-a606-d04211f4e0ec
+  password: c8ed6cd1-6566-4f7a-819e-1c55b2b360c9
+  port: '34121'
+  server: 153.56.210.134
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇩🇪DE_43|573KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 3.76.221.4
+  skip-cert-verify: true
+  sni: 127.0.0.1
+  type: hysteria2
+  up: ''
+- name: crazygeeky | 🇮🇹IT_3|1.1MB/s
+  password: JdFlrZhqHP
+  port: '1080'
+  server: 69.16.157.244
+  skip-cert-verify: true
+  type: socks5
+  username: ufCobhydz4Wd
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇹🇼TW_2|723KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: vpn-tw-002.fastervpn.world
+  skip-cert-verify: true
+  sni: 127.0.0.1
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇩🇪DE_44|1.5MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: vpn-de-002.fastervpn.world
+  skip-cert-verify: true
+  sni: 127.0.0.1
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇺🇸US_17|607KB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: 8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To
+    short-id: a3a578ab
+  server: 185.95.231.156
+  servername: www.apple.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1f8cf47a-b66a-4916-979f-26edfcf44eea
+  xudp: true
+- cipher: aes-256-cfb
+  name: crazygeeky | 🇱🇻LV_3|1020KB/s
+  password: 37Z4TFCYhfxcpc9Q
+  port: '9086'
+  server: 185.135.86.175
+  type: ss
+  udp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇹🇼TW_3|1.3MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: vpn-tw-002.fastervpn.world
+  skip-cert-verify: true
+  sni: speedtest.tinkoff.ru
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_13|519KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2fwangcai2%e2%89%a1%c6%92%c3%a7
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_14|629KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: google.com
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_15|1.1MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.89
+  skip-cert-verify: true
+  sni: t.me
+  type: hysteria2
+  up: ''
+- cipher: aes-256-cfb
+  name: crazygeeky | 🇧🇬BG_5|915KB/s
+  password: cp8pRSUAyLhTfVWH
+  port: '9064'
+  server: 213.183.63.60
+  type: ss
+  udp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_16|777KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https%3A%2F%2Ft.me%2Fwangcai2%E2%81%BF%C3%9F%C2%AB%E2%81%BF%C3%9F
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇷🇴RO_2|1.3MB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU
+    short-id: d06d78e974491b6e
+  server: 46.28.67.55
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d1a6a033-fdbd-46a6-a177-3370ba042b9f
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇳🇱NL_45|2.8MB/s
+  obfs: salamander
+  obfs-password: HysteriaHowdy
+  password: HowdyHysteria2023w0W
+  port: '8443'
+  server: 51.15.19.206
+  skip-cert-verify: true
+  sni: sni-here.com
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_17|1.3MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: "https://t.me/wangcai2ð\x9F\x87"
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_18|528KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇹🇼TW_4|670KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: 103.115.109.49
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇳🇱NL_46|795KB/s
+  network: ws
+  port: '443'
+  server: 104.18.151.231
+  servername: jolly-silence-83b2.kidat76098.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: eaf76557-2219-4799-8171-d7020adfefd0
+  ws-opts:
+    headers:
+      Host: jolly-silence-83b2.kidat76098.workers.dev
+      User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/55.0.2883.87 Safari/537.36
+    path: /ws
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_19|1.0MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2рҹү
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇩🇪DE_45|1.3MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 18.153.65.67
+  skip-cert-verify: true
+  sni: 127.0.0.1
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_20|1.7MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.174
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2foneclickvpnkeys
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇨🇭CH_9|906KB/s
+  obfs: salamander
+  obfs-password: c13f29db6a638ad2b211b9ce2669ef27
+  password: 3a702d4d1de4949005d8431220e040fb
+  port: '443'
+  server: 152.67.75.161
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  up: ''
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: firefox
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇳🇱NL_47|527KB/s
+  network: tcp
+  port: '444'
+  server: ams2.shtil.io
+  servername: ams2.shtil.io
+  tls: true
+  type: vless
+  udp: true
+  uuid: 254f28cb-d0c1-41e9-a06b-f2155213ff04
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_21|1.2MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: t.me
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇩🇪DE_46|2.5MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 3.76.203.180
+  skip-cert-verify: true
+  sni: vpn-de-002.fastervpn.world
+  type: hysteria2
+  up: ''
+- cipher: rc4-md5
+  name: crazygeeky | 🇬🇧GB_8|1.2MB/s
+  password: 14fFPrbezE3HDZzsMOr6
+  port: '8080'
+  server: 146.70.46.214
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇳🇱NL_48|606KB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc
+    short-id: '1174'
+  server: 188.116.27.6
+  servername: www.sony.co.uk
+  tls: true
+  type: vless
+  udp: true
+  uuid: 407d047a-d9b4-41f3-8a02-ebc53854efca
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇹🇷TR_5|2.7MB/s
+  obfs: salamander
+  obfs-password: 0ee2089e-70df-4c30-bfea-1fb9be61d93e
+  password: ff0343ad-1c9f-4986-8c62-c01935b508ca
+  port: '57251'
+  server: 153.56.210.134
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_22|1.3MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.174
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇩🇪DE_47|2.3MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: vpn-de-002.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-de-002.fastervpn.world
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇩🇪DE_48|1.1MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 18.193.79.104
+  skip-cert-verify: true
+  sni: 127.0.0.1
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_23|767KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2ð¨ð³
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇹🇼TW_5|819KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 160.187.100.109
+  skip-cert-verify: true
+  sni: vpn-tw-002.fastervpn.world
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇫🇷FR_7|1.1MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 13.36.234.11
+  skip-cert-verify: true
+  sni: 13.36.234.11
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_24|1.4MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https%3A%2F%2Ft.me%2Fwangcai2%E2%89%A1%C6%92%C3%A7
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇩🇪DE_49|1.6MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 18.193.79.104
+  skip-cert-verify: true
+  sni: vpn-de-002.fastervpn.world
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇹🇼TW_6|1.1MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: vpn-tw-002.fastervpn.world
+  skip-cert-verify: true
+  sni: google.com
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_25|1.0MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: vk.com
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇹🇼TW_7|846KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: vpn-tw-002.fastervpn.world
+  skip-cert-verify: true
+  sni: t.me
+  type: hysteria2
+  up: ''
+- alpn:
+  - h3
+  auth_str: dongtaiwang.com
+  down: '20'
+  name: crazygeeky | 🇺🇸US_18|589KB/s
+  obfs: ''
+  port: '20022'
+  protocol: ''
+  server: 137.175.82.43
+  skip-cert-verify: true
+  sni: bing.com
+  type: hysteria
+  up: '20'
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇹🇼TW_8|633KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: https%3A
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇳🇱NL_49|836KB/s
+  network: ws
+  port: '443'
+  server: 104.18.151.231
+  servername: delicate-hall-bf16.vpndkah.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: eaf76557-2219-4799-8171-d7020adfefd0
+  ws-opts:
+    headers:
+      Host: delicate-hall-bf16.vpndkah.workers.dev
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/41.0.2272.118 Safari/537.36
+    path: /ws
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_26|777KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.174
+  skip-cert-verify: true
+  sni: https://t.me/oneclickvpnkeys
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇳🇱NL_50|646KB/s
+  network: ws
+  port: '443'
+  server: 104.18.151.231
+  servername: muddy-star-d195.aboumansour10313.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: eaf76557-2219-4799-8171-d7020adfefd0
+  ws-opts:
+    headers:
+      Host: muddy-star-d195.aboumansour10313.workers.dev
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/70.0.3538.67 Safari/537.36
+    path: /ws
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇩🇪DE_50|1.4MB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 82.39.171.12
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_27|719KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_28|2.2MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: "https://t.me/wangcai2ð\x9F\x87¨ð\x9F\x87³"
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇫🇮FI_3|584KB/s
+  obfs: ''
+  obfs-password: ''
+  password: 549766c3-fa5f-471e-8031-ffc1f8d5064f
+  port: '24433'
+  server: 94.183.164.119
+  skip-cert-verify: true
+  sni: 94.183.164.119
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_29|1.5MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.89
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2fclashv8%f0%9f%87%a8%f0%9f%87%b3
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_30|1.1MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: httpst.mewangcai2
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇩🇪DE_51|1.5MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 3.76.203.180
+  skip-cert-verify: true
+  sni: 127.0.0.1
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: crazygeeky | ❓Other_3|637KB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw
+    short-id: 23d0950d60bc0d5b
+  server: 195.123.245.241
+  servername: gateway.icloud.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 7c053ca8-38cc-45e2-930c-eda1fd66f903
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇳🇱NL_51|539KB/s
+  network: ws
+  port: '443'
+  server: 104.18.151.231
+  servername: shiny-base-4d9a.mifolan4697928.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: eaf76557-2219-4799-8171-d7020adfefd0
+  ws-opts:
+    headers:
+      Host: shiny-base-4d9a.mifolan4697928.workers.dev
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/63.0.3239.83 Mobile Safari/537.36
+    path: /
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_31|1019KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.89
+  skip-cert-verify: true
+  sni: https://t.me/clashv8
+  type: hysteria2
+  up: ''
+- client-fingerprint: firefox
+  encryption: none
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇳🇱NL_52|516KB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc
+    short-id: '1174'
+  server: 188.116.27.6
+  servername: www.sony.co.uk
+  tls: true
+  type: vless
+  udp: true
+  uuid: 7e81eba3-28fe-4cf6-b397-d5c08fea38ab
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇹🇼TW_9|1.4MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: vpn-tw-002.fastervpn.world
+  skip-cert-verify: true
+  sni: whatsapp.com
+  type: hysteria2
+  up: ''
+- cipher: aes-256-gcm
+  name: crazygeeky | 🇩🇪DE_52|1.2MB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: '19999'
+  server: 193.108.116.98
+  type: ss
+  udp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_32|658KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2üá
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇺🇸US_19|1.4MB/s
+  network: tcp#2🐊@oneclickvpnkeysvless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.113.223.183:8443?ed=2560
+  port: '443'
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.168
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_33|638KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2üá®üá
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_34|945KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.89
+  skip-cert-verify: true
+  sni: https://t.me/clashv8\u0001f1e8\u0001f1f3
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇳🇱NL_53|628KB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU
+    short-id: 1d86d17709852910
+  server: free-amsterdam-node-1.cloudwidecdn.com
+  servername: www.apple.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 44ae52b9-76fc-444d-8e43-186b4384b80a
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇩🇪DE_53|900KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 18.153.65.67
+  skip-cert-verify: true
+  sni: 18.153.65.67
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_35|982KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2рҹүрҹү
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇩🇪DE_54|1.9MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 18.153.65.67
+  skip-cert-verify: true
+  sni: vpn-de-002.fastervpn.world
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇰🇷KR_1|1.0MB/s
+  obfs: ''
+  obfs-password: ''
+  password: maintell
+  port: '2053'
+  server: 152.70.237.123
+  skip-cert-verify: true
+  sni: 152.70.237.123
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_36|621KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇰🇷KR_2|614KB/s
+  obfs: ''
+  obfs-password: ''
+  password: 3d7634af8cb2c6cb4bac1c0efad8b43d
+  port: '50160'
+  server: 152.67.200.82
+  skip-cert-verify: true
+  sni: t.me
+  type: hysteria2
+  up: ''
+- cipher: rc4-md5
+  name: crazygeeky | 🇬🇧GB_9|778KB/s
+  password: 14fFPrbezE3HDZzsMOr6
+  port: '8080'
+  server: 98.98.207.163
+  type: ss
+  udp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_37|702KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.89
+  skip-cert-verify: true
+  sni: 202.146.222.89
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_38|1.3MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: "https://t.me/wangcai2ð\x9F\x87ð\x9F\x87"
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇭🇰HK_39|1.2MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.174
+  skip-cert-verify: true
+  sni: t.me
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  name: crazygeeky | 🇩🇪DE_55|557KB/s
+  network: ws
+  port: '8443'
+  server: singapore.com
+  servername: c7dabe95.proxy-978.pages.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 767b6340-96dc-4aa0-8013-a8af7513d920
+  ws-opts:
+    headers:
+      Host: c7dabe95.proxy-978.pages.dev
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/63.0.3239.84 Safari/537.36
+    path: /
+  xudp: true
+- name: crazygeeky | 🇳🇱NL_54|849KB/s
+  network: ws
+  port: '80'
+  server: 103.133.1.160
+  servername: soft-shadow-1e33.xicav73335.workers.dev
+  type: vless
+  udp: true
+  uuid: eaf76557-2219-4799-8171-d7020adfefd0
+  ws-opts:
+    headers:
+      Host: soft-shadow-1e33.xicav73335.workers.dev
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/60.0.3112.90 Safari/537.36
+    path: /ws
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_56|1.3MB/s
+  network: ws
+  port: '443'
+  server: 104.27.110.37
+  servername: web-app-ji3j1z.app-wuuhuw.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 50414e45-4c5f-5a45-5553-7bac159e3b40
+  ws-opts:
+    headers:
+      Host: web-app-ji3j1z.app-wuuhuw.workers.dev
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/49.0.2623.87 Safari/537.36
+    path: /api/ws
+  xudp: true
+- encryption: none
+  name: crazygeeky | 🇩🇪DE_57|647KB/s
+  network: ws
+  port: '80'
+  server: aslanbilit.ir
+  servername: web-app-ji3j1z.app-wuuhuw.workers.dev
+  type: vless
+  udp: true
+  uuid: 50414e45-4c5f-5a45-5553-7bac159e3b40
+  ws-opts:
+    headers:
+      Host: web-app-ji3j1z.app-wuuhuw.workers.dev
+      User-Agent: Mozilla/5.0 (Linux; Android 7.0; SM-G570M Build/NRD90M) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+    path: /api/ws
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇷🇴RO_3|1.0MB/s
+  obfs: ''
+  obfs-password: ''
+  password: gf1:gfhysteria2024
+  port: '443'
+  server: 185.156.44.99
+  skip-cert-verify: true
+  sni: whatsapp.com
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_58|743KB/s
+  network: ws
+  port: '8443'
+  server: 188.164.248.96
+  servername: whitecreeper.pages.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 099244b9-2168-4dbd-870e-cbbe9d6eb573
+  ws-opts:
+    headers:
+      Host: whitecreeper.pages.dev
+      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+        Chrome/70.0.3538.67 Safari/537.36
+    path: /proxyip=ProxyIP.SG.CMLiussss.Net
+  xudp: true
+- cipher: aes-256-cfb
+  name: crazygeeky | 🇱🇹LT_1|517KB/s
+  password: b8KkNDjEd5QqFyRm
+  port: '9002'
+  server: 195.238.126.20
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_59|584KB/s
+  network: ws
+  port: '2087'
+  server: fu.baiproxy.us.ci
+  servername: fu.baiproxy.us.ci
+  tls: true
+  type: vless
+  udp: true
+  uuid: 55d9ec38-1b8a-454b-981a-6acfe8f56d8c
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: ''
+      User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; SM-G7102 Build/KOT49H) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
+    max-early-data: 2560
+    path: /
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_60|2.7MB/s
+  network: ws
+  port: '8443'
+  server: 104.26.12.140
+  servername: c7dabe95.proxy-978.pages.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 767b6340-96dc-4aa0-8013-a8af7513d920
+  ws-opts:
+    headers:
+      Host: c7dabe95.proxy-978.pages.dev
+      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+        Chrome/70.0.3538.67 Safari/537.36
+    path: /
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_61|1.1MB/s
+  network: ws
+  port: '8443'
+  server: 104.26.13.140
+  servername: c7dabe95.proxy-978.pages.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 767b6340-96dc-4aa0-8013-a8af7513d920
+  ws-opts:
+    headers:
+      Host: c7dabe95.proxy-978.pages.dev
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/70.0.3538.77 Safari/537.36
+    path: /
+  xudp: true
+- client-fingerprint: random
+  name: crazygeeky | 🇩🇪DE_62|881KB/s
+  network: ws
+  port: '443'
+  server: icook.hk
+  servername: c7dabe95.proxy-978.pages.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 767b6340-96dc-4aa0-8013-a8af7513d920
+  ws-opts:
+    headers:
+      Host: c7dabe95.proxy-978.pages.dev
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/70.0.3538.102 Safari/537.36
+    path: /?ed=2560
+  xudp: true
+- client-fingerprint: random
+  name: crazygeeky | 🇩🇪DE_63|691KB/s
+  network: ws
+  port: '443'
+  server: time.is
+  servername: c7dabe95.proxy-978.pages.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 767b6340-96dc-4aa0-8013-a8af7513d920
+  ws-opts:
+    headers:
+      Host: c7dabe95.proxy-978.pages.dev
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/69.0.3497.100 Safari/537.36
+    path: /?ed=2560
+  xudp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: unsafe
+  name: crazygeeky | 🇩🇪DE_64|695KB/s
+  network: ws
+  port: '443'
+  server: 188.114.97.6
+  servername: stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: b2f2f9f2-1864-48ea-839b-22815faff1f1
+  ws-opts:
+    headers:
+      Host: stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/69.0.3497.100 Safari/537.36
+    path: /9BozNyvQ8VdRvsYX?ed=2560
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_65|1.7MB/s
+  network: ws
+  port: '8082'
+  server: 185.125.103.62
+  servername: ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 041e1ba9-5d17-4e7c-baac-c5aa877da29b
+  ws-opts:
+    headers:
+      Host: ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev
+      User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; WAS-LX3 Build/HUAWEIWAS-LX3)
+        AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+    path: /@Marisa_kristi
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇷🇴RO_4|2.1MB/s
+  obfs: ''
+  obfs-password: ''
+  password: gf1:gfhysteria2024
+  port: '443'
+  server: 185.156.44.99
+  skip-cert-verify: true
+  sni: www.amazon.com
+  type: hysteria2
+  up: ''
+- encryption: none
+  name: crazygeeky | 🇩🇪DE_66|610KB/s
+  network: ws
+  port: '80'
+  server: 188.114.98.112
+  type: vless
+  udp: true
+  uuid: 0991a0c4-0ee5-4213-af89-7ad589f853f3
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: elenaaaaaaaaaa.cloudns.pro.
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/56.0.2924.87 Safari/537.36
+    max-early-data: 2560
+    path: /ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY
+  xudp: true
+- encryption: none
+  name: crazygeeky | 🇩🇪DE_67|648KB/s
+  network: ws
+  port: '8080'
+  server: 188.114.97.6
+  type: vless
+  udp: true
+  uuid: fc60147e-76b8-4bc5-b691-90b2da79e3d2
+  ws-opts:
+    headers:
+      Host: nautica-cff.kloningstrife002.workers.dev
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/51.0.2704.106 Safari/537.36
+    path: /138.2.74.219-28616
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇷🇴RO_5|844KB/s
+  obfs: ''
+  obfs-password: ''
+  password: gf1:gfhysteria2024
+  port: '443'
+  server: 185.156.44.99
+  skip-cert-verify: true
+  sni: css.rbxcdn.com
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  name: crazygeeky | 🇩🇪DE_68|905KB/s
+  network: ws
+  port: '443'
+  server: medium.com
+  servername: rayan-007.maxima.dpdns.org
+  tls: true
+  type: vless
+  udp: true
+  uuid: f2a73750-3087-48ff-a763-1348c15dce68
+  ws-opts:
+    headers:
+      Host: rayan-007.maxima.dpdns.org
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/55.0.2883.87 Safari/537.36
+    path: /XIXVPN?ed=2560
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_69|521KB/s
+  network: ws
+  port: '2083'
+  server: 188.114.97.3
+  servername: newwk1.f1w.de5.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: newwk1.f1w.de5.net
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/70.0.3538.67 Safari/537.36
+    max-early-data: 2560
+    path: /
+  xudp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇩🇪DE_70|1.7MB/s
+  network: ws
+  password: 19877587-ed94-4033-88cd-4ac50a5e8718
+  port: '443'
+  server: 104.16.148.5
+  skip-cert-verify: false
+  sni: dimskiee.biz.id
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/43.0.2357.65 Safari/537.36
+    path: /WangCai-8
+- encryption: none
+  name: crazygeeky | 🇩🇪DE_71|627KB/s
+  network: ws
+  port: '80'
+  server: 188.114.98.112
+  servername: elenaaaaaaaaaa.cloudns.pro
+  type: vless
+  udp: true
+  uuid: 0991a0c4-0ee5-4213-af89-7ad589f853f3
+  ws-opts:
+    headers:
+      Host: elenaaaaaaaaaa.cloudns.pro
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/43.0.2357.65 Safari/537.36
+    path: //ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_72|545KB/s
+  network: ws
+  port: '2087'
+  server: 8.35.211.36
+  servername: go.iranfree.de5.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 56e4896e-90a9-4fe0-8480-90d3d68b9928
+  ws-opts:
+    headers:
+      Host: go.iranfree.de5.net
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/60.0.3112.90 Safari/537.36
+    path: /
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_73|646KB/s
+  network: ws
+  port: '2083'
+  server: 172.64.145.202
+  servername: newwk1.f1w.de5.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: newwk1.f1w.de5.net
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/70.0.3538.67 Safari/537.36
+    path: /
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_74|1.4MB/s
+  network: ws
+  port: '443'
+  server: 185.18.250.245
+  servername: edu.ruangguru.com.r3xxe.eu.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: f77299ea-e13d-417d-8cdc-ce5566dfc94b
+  ws-opts:
+    headers:
+      Host: edu.ruangguru.com.r3xxe.eu.cc
+      User-Agent: Mozilla/5.0 (Linux; Android 5.1; A1601 Build/LMY47I) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36
+    path: /nl-tw
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_75|957KB/s
+  network: ws
+  port: '443'
+  server: 172.64.144.198
+  servername: powered-by-surena.configfarsi695fcfe8a2e58.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63
+  ws-opts:
+    headers:
+      Host: powered-by-surena.configfarsi695fcfe8a2e58.workers.dev
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0; CAM-L21 Build/HUAWEICAM-L21; wv)
+        AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile
+        Safari/537.36
+    path: /
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_76|770KB/s
+  network: ws
+  port: '443'
+  server: 209.46.30.149
+  servername: resources.office.com.r3xxe.eu.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 933e8995-3b6d-4d42-8b23-e649f0e7205f
+  ws-opts:
+    headers:
+      Host: resources.office.com.r3xxe.eu.cc
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/70.0.3538.67 Safari/537.36
+    path: /us-gllc
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇬🇧GB_10|866KB/s
+  network: ws
+  port: '52014'
+  server: 57.129.130.200
+  servername: ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: c8b0617e-010f-43a8-b3d0-d5358febf0c9
+  ws-opts:
+    headers:
+      Host: ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/70.0.3538.67 Safari/537.36
+    path: /@Marisa_kristi
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_77|548KB/s
+  network: ws
+  port: '443'
+  server: 188.114.97.6
+  servername: zaintest.vuclip.com.r3xxe.eu.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: c148c68d-aba0-44b8-8f93-ded816246e2c
+  ws-opts:
+    headers:
+      Host: zaintest.vuclip.com.r3xxe.eu.cc
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/55.0.2883.87 Safari/537.36
+    path: /us-gllc
+  xudp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇩🇪DE_78|1.6MB/s
+  network: ws
+  port: '8443'
+  server: 8.35.211.188
+  servername: vpn-1fj.pages.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 2b181a3a-c001-4145-845a-5d43a43837d5
+  ws-opts:
+    headers:
+      Host: vpn-1fj.pages.dev
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/70.0.3538.102 Safari/537.36
+    path: /
+  xudp: true
+- client-fingerprint: unsafe
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_79|1.4MB/s
+  network: ws
+  port: '443'
+  server: 188.114.97.6
+  servername: youxuanku.kdns.fr
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4c0b7280-76bb-495c-9c8b-f05712ebf805
+  ws-opts:
+    headers:
+      Host: youxuanku.kdns.fr
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/58.0.3029.81 Safari/537.36
+    path: /
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_80|1.6MB/s
+  network: ws
+  port: '2083'
+  server: 172.64.80.1
+  servername: fans.liverpool.qzz.io
+  tls: true
+  type: vless
+  udp: true
+  uuid: 2b8738de-1af5-4267-b101-c05707769ed4
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: fans.liverpool.qzz.io
+      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+        Chrome/68.0.3440.106 Safari/537.36
+    max-early-data: 2560
+    path: /eyJqdW5rIjoiY0Y0cENQUmxsNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=
+  xudp: true
+- name: crazygeeky | 🇩🇪DE_81|513KB/s
+  network: ws
+  port: '8080'
+  server: 188.114.97.6
+  type: vless
+  udp: true
+  uuid: 0aab6adc-104c-4339-8d25-09755ffe2cbd
+  ws-opts:
+    headers:
+      Host: liang92.dpdns.org
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/66.0.3359.181 Safari/537.36
+    path: /
+  xudp: true
+- encryption: none
+  name: crazygeeky | 🇩🇪DE_82|733KB/s
+  network: ws
+  port: '80'
+  server: 188.114.97.6
+  type: vless
+  udp: true
+  uuid: e51453d3-7972-44d7-a657-ed89520f48b6
+  ws-opts:
+    headers:
+      Host: web.whatsapp.com.r3xxe.eu.cc
+      User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko)
+        Chrome/49.0.2623.112 Safari/537.36
+    path: /au-do
+  xudp: true
+- client-fingerprint: chrome
+  name: crazygeeky | 🇩🇪DE_83|1.7MB/s
+  network: ws
+  password: 2bcfbfba-b446-4ad5-93ad-72af9e008f61
+  port: '443'
+  server: 104.21.88.77
+  skip-cert-verify: false
+  sni: blackshadow.dpdns.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/60.0.3112.113 Safari/537.36
+    path: /195.123.218.174-443
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇫🇷FR_8|1.5MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: vpn-fr-001.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-fr-001.fastervpn.world
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  name: crazygeeky | 🇩🇪DE_84|926KB/s
+  network: ws
+  port: '443'
+  server: 172.67.145.14
+  servername: web-app-ji3j1z.app-wuuhuw.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 50414e45-4c5f-5a45-5553-7bac159e3b40
+  ws-opts:
+    headers:
+      Host: web-app-ji3j1z.app-wuuhuw.workers.dev
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/70.0.3538.77 Safari/537.36
+    path: /api/ws
+  xudp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: crazygeeky | 🇬🇧GB_11|552KB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: 3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA
+    short-id: fd8cf7e1173f0edb
+  server: 83.147.18.3
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 9f61cdf4-810d-4052-bbc7-2da0c8e20104
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇳🇱NL_55|3.5MB/s
+  obfs: salamander
+  obfs-password: HysteriaHowdy
+  password: HowdyHysteria2023w0W
+  port: '8443'
+  server: hysteria.udpgw.com
+  skip-cert-verify: true
+  sni: sni-here.com
+  type: hysteria2
+  up: ''
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇬🇧GB_12|919KB/s
+  network: ws
+  port: '52014'
+  server: 57.129.130.10
+  servername: sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: bca740c6-6704-48ba-99da-7d7a31768d73
+  ws-opts:
+    headers:
+      Host: sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev
+      User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.3
+        (KHTML, like Gecko) Chrome/6.0.472.63 Safari/534.3
+    path: /@Marisa_kristi
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇩🇪DE_85|783KB/s
+  network: ws
+  port: '20443'
+  server: 147.45.42.73
+  servername: 8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: f293db4d-7ab1-4faf-bb15-89540d8709cb
+  ws-opts:
+    headers:
+      Host: 8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/41.0.2272.76 Safari/537.36
+    path: /@Marisa_kristi
+  xudp: true
+- cipher: aes-256-cfb
+  name: crazygeeky | 🇵🇱PL_5|751KB/s
+  password: S7KwUu7yBy58S3Ga
+  port: '9042'
+  server: 217.30.10.44
+  type: ss
+  udp: true
+- down: ''
+  fingerprint: ''
+  name: crazygeeky | 🇺🇸US_20|556KB/s
+  obfs: salamander
+  obfs-password: a39ca173b57ac7021b08bf3e3de9f1f6
+  password: 5fa748137b6d822308eea4611f474ad5
+  port: '443'
+  server: 155.117.19.17
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  up: ''
+- encryption: none
+  name: crazygeeky | 🇩🇪DE_86|634KB/s
+  network: ws
+  port: '8080'
+  server: icook.tw
+  type: vless
+  udp: true
+  uuid: f8f5d3a5-54bd-4f52-9759-137bdbf950db
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: 23g-lively-resonance-96b9hsf.msc633k2.workers.dev
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; Redmi 4A Build/MMB29M; wv) AppleWebKit/537.36
+        (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.116 Mobile Safari/537.36
+    max-early-data: 2048
+    path: /
+  xudp: true
+- client-fingerprint: firefox
+  name: crazygeeky | 🇩🇪DE_87|1.1MB/s
+  network: xhttp
+  port: 8443
+  reality-opts:
+    public-key: 1SldfhWqqF_Rg9QlPKQqufcHi5GhkxwcEV5HGyOy4Qg
+    short-id: 64ad711102f56ca2
+  server: 2.27.14.122
+  servername: de.krabvpn.pro
+  tls: true
+  type: vless
+  udp: true
+  uuid: 67864856-8730-40cc-9e1a-a0df697d912b
+  xhttp-opts:
+    host: de.krabvpn.pro
+    mode: auto
+    path: /assets/6c0f3ad762cb7ff51b454076
+- client-fingerprint: firefox
+  name: crazygeeky | 🇳🇱NL_56|926KB/s
+  network: xhttp
+  port: 6443
+  reality-opts:
+    public-key: RBQhVV7u-QBkQL79vHRE2tQEeR1SA8CJ9zI9i99XA24
+    short-id: 3bcbfe3856680516
+  server: 191.217.206.147
+  servername: nl.krabvpn.pro
+  tls: true
+  type: vless
+  udp: true
+  uuid: 0b22812b-4a79-42b1-93ec-5b157b0f2f7f
+  xhttp-opts:
+    host: nl.krabvpn.pro
+    mode: auto
+    path: /assets/e19f8e871ca55b3d77d42ae7
+- ip: 172.16.0.2/32
+  mtu: 1280
+  name: crazygeeky | 🇮🇹IT_4|527KB/s
+  port: 500
+  presharedkey: ''
+  private-key: cMxekgAnVSNb+rgOySV+74ogaJhqpJtShZaECZCY6k4=
+  public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+  reserved:
+  - 236
+  - 210
+  - 245
+  server: 162.159.192.1
+  type: wireguard
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: crazygeeky | 🇸🇪SE_2|531KB/s
+  network: ws
+  port: '443'
+  server: 31.56.227.253
+  servername: cf-1rm.pages.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5e610f80-fc6a-479d-8621-b672355b96a1
+  ws-opts:
+    headers:
+      Host: cf-1rm.pages.dev
+      User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/55.0.2883.87 Safari/537.36
+    path: /
+  xudp: true
