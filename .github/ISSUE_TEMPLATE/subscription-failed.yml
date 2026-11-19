@@ -1,0 +1,37 @@
+name: 订阅失败 / Subscription problem
+description: 订阅导入失败、没有节点、全部连不上 / Import failed, no nodes, nothing connects
+labels: ["subscription"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请先在浏览器里打开订阅链接，确认能访问；再看 [排错文章](https://crazygeeky.com/troubleshoot/)。
+        Please open the subscription URL in a browser first and check the [troubleshooting articles](https://crazygeeky.com/troubleshoot/).
+  - type: dropdown
+    id: file
+    attributes:
+      label: 使用的文件 / File used
+      options: [base64.txt, all.yaml, mihomo.yaml, 地区/解锁拆分文件 (region/unlock files), sing-box]
+    validations:
+      required: true
+  - type: input
+    id: client
+    attributes:
+      label: 客户端与版本 / Client and version
+      placeholder: Clash Verge Rev 2.x / v2rayN 7.x ...
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: 系统 / OS
+      options: [Windows, macOS, Linux, Android, iOS]
+    validations:
+      required: true
+  - type: textarea
+    id: symptom
+    attributes:
+      label: 现象与报错 / What happens
+      description: 请不要粘贴你的个人密钥或账号 / Do not paste personal keys or accounts
+    validations:
+      required: true
