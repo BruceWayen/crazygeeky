@@ -4,6 +4,8 @@
 
 🌐 Website: [crazygeeky.com](https://crazygeeky.com) ｜ 📊 [Live node stats](https://crazygeeky.com/nodes/) ｜ 📱 [Clients & tutorials](https://crazygeeky.com/clients/)
 
+[![alive](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBruceWayen/crazygeeky%2Fmain%2Fstatus%2Falive.json)](https://crazygeeky.com/nodes/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBruceWayen/crazygeeky%2Fmain%2Fstatus%2Fupdated.json)](https://crazygeeky.com/nodes/) [![site](https://img.shields.io/badge/website-crazygeeky.com-4cc9f0)](https://crazygeeky.com)
+
 The subscription files in this repository are published automatically by [crazygeeky.com](https://crazygeeky.com) after each check, roughly every 6 hours. Nodes come from public sources on the internet. They are liveness-checked and de-duplicated, and every node name carries a `crazygeeky |` prefix.
 
 > ⚠️ **Risk notice**: Free nodes come from the internet and may be unsafe. **Do not use them to sign in to banking, payment, primary email or other sensitive accounts.** Follow the laws and regulations where you live. Checks run on an overseas server, so they only show whether a node is alive, its exit region and unlock status. **They do not reflect speed from mainland China.** Availability is not guaranteed.
@@ -19,6 +21,20 @@ Copy a link below and paste it into your client's subscription settings.
 | `mihomo.yaml` | Clash Verge Rev, FlClash and other mihomo-core clients: full config with routing rules | `https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/mihomo.yaml` |
 
 Not sure which one? **Use `mihomo.yaml` for Clash-family clients and `base64.txt` for everything else.**
+
+## Live stats and on-demand subscriptions
+
+<!-- STATS:START -->
+This section updates automatically after the first check.
+<!-- STATS:END -->
+
+## More formats and docs
+
+- All subscription formats and how the split files work: [docs/formats.md](docs/formats.md)
+- FAQ: [docs/faq.en.md](docs/faq.en.md)
+- Historical data: [data/history.csv](data/history.csv)
+- A [Release](../../releases) with the weekly summary is published every Monday
+- Having trouble? Open an [Issue](../../issues/new/choose) using a template, or join the [Discussions](../../discussions)
 
 ## How to use
 
