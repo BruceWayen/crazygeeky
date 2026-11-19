@@ -4,6 +4,8 @@
 
 🌐 官网：[crazygeeky.com](https://crazygeeky.com) ｜ 📊 [实时节点检测](https://crazygeeky.com/nodes/) ｜ 📱 [客户端中心与教程](https://crazygeeky.com/clients/)
 
+[![alive](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBruceWayen/crazygeeky%2Fmain%2Fstatus%2Falive.json)](https://crazygeeky.com/nodes/) [![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FBruceWayen/crazygeeky%2Fmain%2Fstatus%2Fupdated.json)](https://crazygeeky.com/nodes/) [![site](https://img.shields.io/badge/website-crazygeeky.com-4cc9f0)](https://crazygeeky.com)
+
 本仓库的订阅文件由 [crazygeeky.com](https://crazygeeky.com) 自动检测后发布，大约每 6 小时更新一次。节点来自网络公开来源，经过存活检测和去重，节点名带有 `crazygeeky |` 前缀。
 
 > ⚠️ **风险提示**：免费节点来源于网络，可能不安全，**请勿用于登录银行、支付、主要邮箱等敏感账号**。请遵守你所在地的法律法规。检测在海外服务器进行，只反映节点是否存活、出口地区和解锁情况，**不代表国内网络下的速度**。本站不保证节点可用性。
@@ -19,6 +21,20 @@
 | `mihomo.yaml` | Clash Verge Rev、FlClash 等 mihomo 内核客户端：带分流规则的完整配置 | `https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/mihomo.yaml` |
 
 不知道选哪个？**Clash 系客户端用 `mihomo.yaml`，其他客户端用 `base64.txt`。**
+
+## 实时统计与按需订阅
+
+<!-- STATS:START -->
+首次检测完成后，这里会自动更新。
+<!-- STATS:END -->
+
+## 更多格式与文档
+
+- 全部订阅格式、拆分订阅的说明：[docs/formats.md](docs/formats.md)
+- 常见问题：[docs/faq.md](docs/faq.md)
+- 历史数据可以直接用：[data/history.csv](data/history.csv)
+- 每周一发布 [Release](../../releases)，附周报摘要
+- 遇到问题请在 [Issues](../../issues/new/choose) 里选模板提交，或到 [Discussions](../../discussions) 交流
 
 ## 怎么使用
 
