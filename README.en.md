@@ -25,7 +25,30 @@ Not sure which one? **Use `mihomo.yaml` for Clash-family clients and `base64.txt
 ## Live stats and on-demand subscriptions
 
 <!-- STATS:START -->
-This section updates automatically after the first check.
+
+**Last updated: 2026-11-19 10:47 (UTC+8)** | Alive nodes **287** | Alive rate **68.0%**
+
+| Region | Alive | Subscription (Clash format) | Details |
+| --- | --- | --- | --- |
+| United States | 20 | [us.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/us.yaml) | [/nodes/us/](https://crazygeeky.com/nodes/us/) |
+| Japan | 0 | fewer than 5, not provided | — |
+| Singapore | 0 | fewer than 5, not provided | — |
+| Hong Kong | 39 | [hk.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/hk.yaml) | [/nodes/hk/](https://crazygeeky.com/nodes/hk/) |
+| Taiwan | 9 | [tw.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/tw.yaml) | [/nodes/tw/](https://crazygeeky.com/nodes/tw/) |
+| Other | 219 | [other.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/other.yaml) | [/nodes/other/](https://crazygeeky.com/nodes/other/) |
+
+| Unlock | Alive | Subscription (Clash format) | Details |
+| --- | --- | --- | --- |
+| Netflix | 0 | fewer than 5, not provided | — |
+| ChatGPT | 0 | fewer than 5, not provided | — |
+| Disney+ | 0 | fewer than 5, not provided | — |
+| YouTube | 0 | fewer than 5, not provided | — |
+| Gemini | 0 | fewer than 5, not provided | — |
+
+![trend](data/trend.svg)
+
+History: [data/history.csv](data/history.csv) | Full stats: [https://crazygeeky.com/nodes/](https://crazygeeky.com/nodes/)
+
 <!-- STATS:END -->
 
 ## More formats and docs
