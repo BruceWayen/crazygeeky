@@ -1,0 +1,16 @@
+name: 教程/文章选题建议 / Tutorial or article request
+description: 希望网站增加哪篇教程或排错文章 / What would you like us to write about?
+labels: ["topic"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: 想看的主题 / Topic
+      placeholder: 例如：Clash Verge Rev 如何设置分流规则
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 具体场景 / Details
+      description: 你遇到了什么问题？最好附上官方文档链接 / What problem are you facing? Official doc links help.
