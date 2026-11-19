@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 订阅更新失败排查 / Troubleshooting
+    url: https://crazygeeky.com/troubleshoot/
+    about: 先看看常见问题的排查文章 / Check the troubleshooting articles first
+  - name: 讨论区 / Discussions
+    url: https://github.com/BruceWayen/crazygeeky/discussions
+    about: 使用交流、提问 / Questions and chat
