@@ -26,16 +26,16 @@ Not sure which one? **Use `mihomo.yaml` for Clash-family clients and `base64.txt
 
 <!-- STATS:START -->
 
-**Last updated: 2026-11-20 06:15 (UTC+8)** | Alive nodes **280** | Alive rate **66.5%**
+**Last updated: 2026-11-20 10:16 (UTC+8)** | Alive nodes **298** | Alive rate **71.5%**
 
 | Region | Alive | Subscription (Clash format) | Details |
 | --- | --- | --- | --- |
-| United States | 26 | [us.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/us.yaml) | [/nodes/us/](https://crazygeeky.com/nodes/us/) |
-| Japan | 1 | fewer than 5, not provided | — |
-| Singapore | 5 | [sg.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/sg.yaml) | [/nodes/sg/](https://crazygeeky.com/nodes/sg/) |
-| Hong Kong | 51 | [hk.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/hk.yaml) | [/nodes/hk/](https://crazygeeky.com/nodes/hk/) |
-| Taiwan | 11 | [tw.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/tw.yaml) | [/nodes/tw/](https://crazygeeky.com/nodes/tw/) |
-| Other | 186 | [other.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/other.yaml) | [/nodes/other/](https://crazygeeky.com/nodes/other/) |
+| United States | 13 | [us.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/us.yaml) | [/nodes/us/](https://crazygeeky.com/nodes/us.html) |
+| Japan | 0 | fewer than 5, not provided | — |
+| Singapore | 1 | fewer than 5, not provided | — |
+| Hong Kong | 45 | [hk.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/hk.yaml) | [/nodes/hk/](https://crazygeeky.com/nodes/hk.html) |
+| Taiwan | 7 | [tw.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/tw.yaml) | [/nodes/tw/](https://crazygeeky.com/nodes/tw.html) |
+| Other | 232 | [other.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/other.yaml) | [/nodes/other/](https://crazygeeky.com/nodes/other.html) |
 
 | Unlock | Alive | Subscription (Clash format) | Details |
 | --- | --- | --- | --- |
@@ -47,7 +47,7 @@ Not sure which one? **Use `mihomo.yaml` for Clash-family clients and `base64.txt
 
 ![trend](data/trend.svg)
 
-History: [data/history.csv](data/history.csv) | Full stats: [https://crazygeeky.com/nodes/](https://crazygeeky.com/nodes/)
+History: [data/history.csv](data/history.csv) | Full stats: [https://crazygeeky.com/nodes/](https://crazygeeky.com/)
 
 <!-- STATS:END -->
 
