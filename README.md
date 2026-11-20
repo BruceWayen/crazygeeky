@@ -26,16 +26,16 @@
 
 <!-- STATS:START -->
 
-**最近更新：2026-11-20 06:15（北京时间）**｜存活节点 **280**｜存活率 **66.5%**
+**最近更新：2026-11-20 10:16（北京时间）**｜存活节点 **298**｜存活率 **71.5%**
 
 | 地区 | 存活数 | 订阅文件（Clash 格式） | 详情页 |
 | --- | --- | --- | --- |
-| 美国 | 26 | [us.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/us.yaml) | [/nodes/us/](https://crazygeeky.com/nodes/us/) |
-| 日本 | 1 | 数量少于 5，暂不提供 | — |
-| 新加坡 | 5 | [sg.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/sg.yaml) | [/nodes/sg/](https://crazygeeky.com/nodes/sg/) |
-| 香港 | 51 | [hk.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/hk.yaml) | [/nodes/hk/](https://crazygeeky.com/nodes/hk/) |
-| 台湾 | 11 | [tw.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/tw.yaml) | [/nodes/tw/](https://crazygeeky.com/nodes/tw/) |
-| 其他 | 186 | [other.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/other.yaml) | [/nodes/other/](https://crazygeeky.com/nodes/other/) |
+| 美国 | 13 | [us.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/us.yaml) | [/nodes/us/](https://crazygeeky.com/nodes/us.html) |
+| 日本 | 0 | 数量少于 5，暂不提供 | — |
+| 新加坡 | 1 | 数量少于 5，暂不提供 | — |
+| 香港 | 45 | [hk.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/hk.yaml) | [/nodes/hk/](https://crazygeeky.com/nodes/hk.html) |
+| 台湾 | 7 | [tw.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/tw.yaml) | [/nodes/tw/](https://crazygeeky.com/nodes/tw.html) |
+| 其他 | 232 | [other.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/other.yaml) | [/nodes/other/](https://crazygeeky.com/nodes/other.html) |
 
 | 解锁 | 存活数 | 订阅文件（Clash 格式） | 详情页 |
 | --- | --- | --- | --- |
@@ -47,7 +47,7 @@
 
 ![trend](data/trend.svg)
 
-历史数据：[data/history.csv](data/history.csv)｜完整统计：[https://crazygeeky.com/nodes/](https://crazygeeky.com/nodes/)
+历史数据：[data/history.csv](data/history.csv)｜完整统计：[https://crazygeeky.com/nodes/](https://crazygeeky.com/)
 
 <!-- STATS:END -->
 
