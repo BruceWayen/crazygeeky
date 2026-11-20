@@ -1,53 +1,73 @@
 proxies:
 - cipher: aes-256-gcm
-  name: NodeHub | 🇸🇬SG_1|1.9MB/s
+  name: NodeHub | 🇸🇬SG_1|1.1MB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 149.88.107.74
+  type: ss
+- cipher: aes-256-gcm
+  name: NodeHub | 🇸🇬SG_2|624KB/s
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 15.235.182.183
   type: ss
-- alpn:
-  - ''
-  alterId: '0'
-  cipher: auto
-  name: NodeHub | 🇸🇬SG_2|2.4MB/s
-  network: tcp
-  port: 18000
-  server: ww11.levikogjgfdd.ir
-  skip-cert-verify: false
+- name: NodeHub | 🇸🇬SG_3|1.5MB/s
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 13.212.78.215
+  skip-cert-verify: true
+  sni: vpn-sg-001.fastervpn.world
   tls: false
+  type: hysteria2
+- name: NodeHub | 🇸🇬SG_4|813KB/s
+  password: ''
+  port: 9443
+  server: 149.88.99.209
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+  username: ''
+  x-toolall-mihomo: true
+- cipher: 2022-blake3-chacha20-poly1305
+  name: NodeHub | 🇸🇬SG_5|2.0MB/s
+  password: 8SrAY2kEk9UHKSgUJjQvfdTJP9oPlSPVP1wICL7n3hk=
+  port: '443'
+  server: 43.106.81.90
+  type: ss
+  udp: true
+- alterId: '0'
+  cipher: auto
+  name: NodeHub | 🇸🇬SG_6|640KB/s
+  network: ws
+  port: '8443'
+  server: 141.193.213.21
+  servername: matrix.phonicsindia.mobi
+  skip-cert-verify: false
+  tls: true
   type: vmess
   udp: true
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-  xudp: true
-- alterId: 0
-  cipher: auto
-  name: NodeHub | 🇸🇬SG_3|617KB/s
-  network: raw
-  port: '18000'
-  server: ww11.levikogjgfdd.ir
-  servername: ww11.levikogjgfdd.ir
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-  xudp: true
-- alterId: 0
-  cipher: auto
-  name: NodeHub | 🇸🇬SG_4|521KB/s
-  network: tcp
-  port: '18000'
-  server: 149.88.23.207
-  servername: 149.88.23.207
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+  uuid: bd67fcd2-ec34-40a6-aac6-67731f2d7011
+  ws-opts:
+    headers:
+      Host: matrix.phonicsindia.mobi
+    path: /
   xudp: true
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇸🇬SG_5|1.5MB/s
+  name: NodeHub | 🇸🇬SG_7|1.0MB/s
+  obfs: ''
+  obfs-password: ''
+  password: f87376e17da040ed04c9665ce8972930
+  port: '50160'
+  server: 138.2.73.238
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇸🇬SG_8|1.2MB/s
   obfs: ''
   obfs-password: ''
   password: f87376e17da040ed04c9665ce8972930
@@ -55,17 +75,5 @@ proxies:
   server: 138.2.73.238
   skip-cert-verify: true
   sni: 138.2.73.238
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇸🇬SG_6|1.6MB/s
-  obfs: ''
-  obfs-password: ''
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: '443'
-  server: vpn-sg-001.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-sg-001.fastervpn.world
   type: hysteria2
   up: ''
