@@ -1,26 +1,26 @@
 proxies:
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇹🇼TW_1|1.8MB/s
+  name: NodeHub | 🇹🇼TW_1|1.2MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: '443'
   server: vpn-tw-002.fastervpn.world
   skip-cert-verify: true
-  sni: www.bing.com
+  sni: vk.com
   type: hysteria2
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇹🇼TW_2|581KB/s
+  name: NodeHub | 🇹🇼TW_2|2.3MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: '443'
-  server: 160.187.100.109
+  server: 103.115.109.49
   skip-cert-verify: true
-  sni: 160.187.100.109
+  sni: 'https:'
   type: hysteria2
   up: ''
 - down: ''
@@ -37,7 +37,31 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇹🇼TW_4|1.5MB/s
+  name: NodeHub | 🇹🇼TW_4|952KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2foneclickvpnkeys
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇹🇼TW_5|626KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2fwangcai2
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇹🇼TW_6|749KB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -49,50 +73,26 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇹🇼TW_5|696KB/s
+  name: NodeHub | 🇹🇼TW_7|943KB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: '443'
-  server: vpn-tw-002.fastervpn.world
+  server: 103.115.109.49
   skip-cert-verify: true
-  sni: speedtest.tinkoff.ru
+  sni: https://t.me/wangcai2
   type: hysteria2
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇹🇼TW_6|885KB/s
-  obfs: ''
-  obfs-password: ''
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: '443'
-  server: vpn-tw-002.fastervpn.world
-  skip-cert-verify: true
-  sni: vk.com
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇹🇼TW_7|993KB/s
-  obfs: ''
-  obfs-password: ''
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: '443'
-  server: vpn-tw-002.fastervpn.world
-  skip-cert-verify: true
-  sni: 127.0.0.1
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇹🇼TW_8|1.6MB/s
+  name: NodeHub | 🇹🇼TW_8|1.0MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: '443'
   server: 160.187.100.109
   skip-cert-verify: true
-  sni: 127.0.0.1
+  sni: vpn-tw-002.fastervpn.world
   type: hysteria2
   up: ''
 - down: ''
@@ -104,18 +104,78 @@ proxies:
   port: '443'
   server: vpn-tw-002.fastervpn.world
   skip-cert-verify: true
-  sni: google.com
+  sni: t.me
   type: hysteria2
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇹🇼TW_10|962KB/s
+  name: NodeHub | 🇹🇼TW_10|1.3MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: '443'
-  server: 160.187.100.109
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: https%3A
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇹🇼TW_11|962KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: vpn-tw-002.fastervpn.world
   skip-cert-verify: true
   sni: vpn-tw-002.fastervpn.world
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇹🇼TW_12|1.0MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: https
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇹🇼TW_13|773KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: vpn-tw-002.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-tw-002.fastervpn.world\u0026insecure=1\u0026allowinsecure=1
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇹🇼TW_14|826KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: vpn-tw-002.fastervpn.world
+  skip-cert-verify: true
+  sni: whatsapp.com
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇹🇼TW_15|831KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 103.115.109.49
+  skip-cert-verify: true
+  sni: https://t.me/oneclickvpnkeys
   type: hysteria2
   up: ''
