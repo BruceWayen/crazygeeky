@@ -1,8 +1,44 @@
 proxies:
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇭🇰HK_1|855KB/s
+  obfs: salamander
+  obfs-password: o5qgnpl75wayhkn5
+  password: 57beeeb0-03fc-4fc9-94da-7604488a7134
+  port: '443'
+  server: nb2hk.hikigo.com
+  skip-cert-verify: true
+  sni: nb2hk.hikigo.com
+  type: hysteria2
+  up: ''
+- name: NodeHub | 🇭🇰HK_2|1.0MB/s
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: vpn-hk-004.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-hk-004.fastervpn.world
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   encryption: none
   flow: xtls-rprx-vision
-  name: NodeHub | 🇭🇰HK_1|600KB/s
+  name: NodeHub | 🇭🇰HK_3|762KB/s
+  network: tcp
+  port: '31001'
+  reality-opts:
+    public-key: lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY
+    short-id: 39793bc4708abbbb
+  server: 2.26.204.46
+  servername: mensura.cdn-apple.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 12a4f736-2238-49ee-831f-5516f15cc951
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: NodeHub | 🇭🇰HK_4|1.1MB/s
   network: tcp
   port: '31001'
   reality-opts:
@@ -17,19 +53,7 @@ proxies:
   xudp: true
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_2|1.9MB/s
-  obfs: ''
-  obfs-password: ''
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: '443'
-  server: 202.146.222.29
-  skip-cert-verify: true
-  sni: https://t.me/wangcai2üáüá
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇭🇰HK_3|1.1MB/s
+  name: NodeHub | 🇭🇰HK_5|1.0MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -41,43 +65,19 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_4|1.4MB/s
+  name: NodeHub | 🇭🇰HK_6|1.1MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: '443'
   server: 202.146.222.29
   skip-cert-verify: true
-  sni: google.com
+  sni: https%3a%2f%2ft.me%2fwangcai2%ef%a3%bf%c3%bc%c3%a1
   type: hysteria2
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_5|1.5MB/s
-  obfs: ''
-  obfs-password: ''
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: '443'
-  server: 202.146.222.29
-  skip-cert-verify: true
-  sni: https://t.me/wangcai2ð¨ð³
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇭🇰HK_6|1.6MB/s
-  obfs: ''
-  obfs-password: ''
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: '443'
-  server: 202.146.222.29
-  skip-cert-verify: true
-  sni: vk.com
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇭🇰HK_7|596KB/s
+  name: NodeHub | 🇭🇰HK_7|679KB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -89,7 +89,19 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_8|594KB/s
+  name: NodeHub | 🇭🇰HK_8|2.0MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.174
+  skip-cert-verify: true
+  sni: https://t.me/wangcai2🇨🇳
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇭🇰HK_9|2.0MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -101,7 +113,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_9|849KB/s
+  name: NodeHub | 🇭🇰HK_10|1.0MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -113,7 +125,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_10|2.0MB/s
+  name: NodeHub | 🇭🇰HK_11|1.7MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -125,7 +137,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_11|1.0MB/s
+  name: NodeHub | 🇭🇰HK_12|1.5MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -137,19 +149,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_12|1.7MB/s
-  obfs: ''
-  obfs-password: ''
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: '443'
-  server: 202.146.222.89
-  skip-cert-verify: true
-  sni: https://t.me/clashv8🇨🇳
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇭🇰HK_13|820KB/s
+  name: NodeHub | 🇭🇰HK_13|1.2MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -173,7 +173,19 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_15|1.0MB/s
+  name: NodeHub | 🇭🇰HK_15|984KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.89
+  skip-cert-verify: true
+  sni: t.me
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇭🇰HK_16|770KB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -185,7 +197,19 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_16|1.0MB/s
+  name: NodeHub | 🇭🇰HK_17|1.4MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.174
+  skip-cert-verify: true
+  sni: https%3a%2f%2ft.me%2fwangcai2
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇭🇰HK_18|677KB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -197,19 +221,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_17|960KB/s
-  obfs: ''
-  obfs-password: ''
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: '443'
-  server: 202.146.222.174
-  skip-cert-verify: true
-  sni: https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇭🇰HK_18|1.0MB/s
+  name: NodeHub | 🇭🇰HK_19|1.3MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -219,7 +231,7 @@ proxies:
   sni: https%3a%2f%2ft.me%2fclashv8%f0%9f%87%a8%f0%9f%87%b3
   type: hysteria2
   up: ''
-- name: NodeHub | 🇭🇰HK_19|937KB/s
+- name: NodeHub | 🇭🇰HK_20|600KB/s
   password: pLBgZ2mOWDopvTI6CUWu5ZkI
   port: '31003'
   server: 2.26.204.46
@@ -228,7 +240,7 @@ proxies:
   username: socks
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_20|1.3MB/s
+  name: NodeHub | 🇭🇰HK_21|2.2MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -240,7 +252,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_21|1.2MB/s
+  name: NodeHub | 🇭🇰HK_22|1.2MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -252,7 +264,19 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_22|1.5MB/s
+  name: NodeHub | 🇭🇰HK_23|832KB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.89
+  skip-cert-verify: true
+  sni: 202.146.222.89
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇭🇰HK_24|994KB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -264,7 +288,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_23|1.1MB/s
+  name: NodeHub | 🇭🇰HK_25|1.3MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -276,7 +300,19 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_24|1.0MB/s
+  name: NodeHub | 🇭🇰HK_26|1.8MB/s
+  obfs: ''
+  obfs-password: ''
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: '443'
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: speedtest.tinkoff.ru
+  type: hysteria2
+  up: ''
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇭🇰HK_27|1.0MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -288,7 +324,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_25|1.2MB/s
+  name: NodeHub | 🇭🇰HK_28|1.2MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -300,19 +336,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_26|1.0MB/s
-  obfs: ''
-  obfs-password: ''
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: '443'
-  server: 202.146.222.29
-  skip-cert-verify: true
-  sni: https://t.me/wangcai2рҹү
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇭🇰HK_27|1.8MB/s
+  name: NodeHub | 🇭🇰HK_29|1.7MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -324,7 +348,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_28|1.0MB/s
+  name: NodeHub | 🇭🇰HK_30|1.2MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -336,19 +360,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_29|1.1MB/s
-  obfs: ''
-  obfs-password: ''
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: '443'
-  server: 202.146.222.29
-  skip-cert-verify: true
-  sni: https://t.me/wangcai2🇨🇳
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇭🇰HK_30|1.1MB/s
+  name: NodeHub | 🇭🇰HK_31|1.1MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -360,7 +372,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_31|816KB/s
+  name: NodeHub | 🇭🇰HK_32|1.1MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -372,19 +384,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_32|1.8MB/s
-  obfs: ''
-  obfs-password: ''
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: '443'
-  server: 202.146.222.29
-  skip-cert-verify: true
-  sni: https://t.me/wangcai2
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇭🇰HK_33|1.4MB/s
+  name: NodeHub | 🇭🇰HK_33|547KB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -396,7 +396,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_34|1.0MB/s
+  name: NodeHub | 🇭🇰HK_34|1.2MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -408,7 +408,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_35|843KB/s
+  name: NodeHub | 🇭🇰HK_35|1.9MB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -420,7 +420,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇭🇰HK_36|1.2MB/s
+  name: NodeHub | 🇭🇰HK_36|850KB/s
   obfs: ''
   obfs-password: ''
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
