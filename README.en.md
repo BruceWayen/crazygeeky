@@ -26,16 +26,16 @@ Not sure which one? **Use `mihomo.yaml` for Clash-family clients and `base64.txt
 
 <!-- STATS:START -->
 
-**Last updated: 2026-11-22 06:16 (UTC+8)** | Alive nodes **280** | Alive rate **69.3%**
+**Last updated: 2026-11-22 12:16 (UTC+8)** | Alive nodes **301** | Alive rate **73.8%**
 
 | Region | Alive | Subscription (Clash format) | Details |
 | --- | --- | --- | --- |
-| United States | 25 | [us.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/us.yaml) | [/nodes/us/](https://crazygeeky.com/nodes/us.html) |
+| United States | 27 | [us.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/us.yaml) | [/nodes/us/](https://crazygeeky.com/nodes/us.html) |
 | Japan | 0 | fewer than 5, not provided | — |
-| Singapore | 5 | [sg.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/sg.yaml) | [/nodes/sg/](https://crazygeeky.com/nodes/sg.html) |
-| Hong Kong | 34 | [hk.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/hk.yaml) | [/nodes/hk/](https://crazygeeky.com/nodes/hk.html) |
-| Taiwan | 11 | [tw.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/tw.yaml) | [/nodes/tw/](https://crazygeeky.com/nodes/tw.html) |
-| Other | 205 | [other.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/other.yaml) | [/nodes/other/](https://crazygeeky.com/nodes/other.html) |
+| Singapore | 8 | [sg.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/sg.yaml) | [/nodes/sg/](https://crazygeeky.com/nodes/sg.html) |
+| Hong Kong | 36 | [hk.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/hk.yaml) | [/nodes/hk/](https://crazygeeky.com/nodes/hk.html) |
+| Taiwan | 13 | [tw.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/tw.yaml) | [/nodes/tw/](https://crazygeeky.com/nodes/tw.html) |
+| Other | 217 | [other.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/other.yaml) | [/nodes/other/](https://crazygeeky.com/nodes/other.html) |
 
 | Unlock | Alive | Subscription (Clash format) | Details |
 | --- | --- | --- | --- |
