@@ -1,53 +1,24 @@
 proxies:
+- name: NodeHub | 🇺🇸US_1|1.1MB/s
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: 443
+  server: 167.88.61.52
+  skip-cert-verify: false
+  sni: courses.browseseniorrolesandenhanceyourcareertoday.com
+  type: trojan
 - cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_1|1.5MB/s
+  name: NodeHub | 🇺🇸US_2|1.2MB/s
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 45.86.51.18
+  server: 167.88.62.203
   type: ss
 - cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_2|2.3MB/s
+  name: NodeHub | 🇺🇸US_3|889KB/s
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.121.43.231
+  server: 137.184.89.151
   type: ss
-- cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_3|697KB/s
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 84.20.27.183
-  type: ss
-- cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_4|1013KB/s
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 149.40.57.134
-  type: ss
-- cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_5|685KB/s
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 38.22.17.219
-  type: ss
-- cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_6|745KB/s
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 162.251.62.31
-  type: ss
-- cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_7|1.2MB/s
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 38.91.107.188
-  type: ss
-- cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_8|700KB/s
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 23.150.152.38
-  type: ss
-- name: NodeHub | 🇺🇸US_9|714KB/s
+- name: NodeHub | 🇺🇸US_4|544KB/s
   password: 0b396097d052915ef304b40d2bda6a2d
   port: 8443
   server: 179.254.94.184
@@ -55,47 +26,92 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: NodeHub | 🇺🇸US_10|1.2MB/s
-  password: 713142c9-ad09-4894-b35c-645423f3f6c9
-  port: 443
-  server: media.embrofree.org
-  sni: media.embrofree.org
-  tls: false
-  type: hysteria2
-- name: NodeHub | 🇺🇸US_11|1.6MB/s
-  password: AIcYjw5Oc9Rrrr9SGDUBbBIC
-  port: 36712
-  server: 38.76.150.108
+- alpn:
+  - h3
+  auth-str: dongtaiwang.com
+  down: '55'
+  name: NodeHub | 🇺🇸US_5|699KB/s
+  password: dongtaiwang.com
+  port: 11008
+  server: 38.6.222.131
+  servername: bing.com
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: NodeHub | 🇺🇸US_12|918KB/s
-  port: 443
-  server: 149.34.248.65
+  sni: bing.com
+  tls: true
+  type: hysteria
+  up: '11'
+- name: NodeHub | 🇺🇸US_6|663KB/s
+  port: 9443
+  server: 152.233.50.145
   skip-cert-verify: true
-  sni: 149.34.248.65
   tls: true
   type: http
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: NodeHub | 🇺🇸US_13|830KB/s
-  network: tcp
-  port: '443'
-  reality-opts:
-    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
-    short-id: c39cc7310a
-  server: 169.40.42.90
-  servername: yahoo.com
-  tls: true
-  type: vless
   udp: true
-  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
-  xudp: true
+  x-toolall-mihomo: true
+- name: NodeHub | 🇺🇸US_7|557KB/s|K001-260618
+  password: None
+  port: 443
+  server: 12.202.180.118
+  skip-cert-verify: true
+  sub_tag: K001-260618
+  tls: true
+  type: http
+  udp: true
+  username: ''
+  x-toolall-mihomo: true
+- name: NodeHub | 🇺🇸US_8|568KB/s
+  port: 443
+  server: 149.88.21.129
+  skip-cert-verify: true
+  tls: true
+  type: http
+  udp: true
+  x-toolall-mihomo: true
+- cipher: aes-256-gcm
+  name: NodeHub | 🇺🇸US_9|792KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: '19999'
+  server: 167.88.62.56
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: NodeHub | 🇺🇸US_10|709KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: '19999'
+  server: 38.22.17.214
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: NodeHub | 🇺🇸US_11|1.2MB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: '19999'
+  server: 38.64.138.135
+  type: ss
+  udp: true
 - client-fingerprint: chrome
-  encryption: none
-  flow: xtls-rprx-vision
-  name: NodeHub | 🇺🇸US_14|515KB/s
+  name: NodeHub | 🇺🇸US_12|716KB/s
   network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 216.152.156.212
+  skip-cert-verify: false
+  sni: courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: NodeHub | 🇺🇸US_13|986KB/s
+  network: tcp
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  port: '443'
+  server: 66.163.122.7
+  skip-cert-verify: false
+  sni: www.searchnationwidecareerchangehelperandguidancetoday.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: NodeHub | 🇺🇸US_14|760KB/s
+  network: raw
   port: '443'
   reality-opts:
     public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
@@ -107,36 +123,9 @@ proxies:
   udp: true
   uuid: d65cc14c-f53f-4fe2-b262-97856601319c
   xudp: true
-- name: NodeHub | 🇺🇸US_15|1.1MB/s
-  network: ws
-  port: '30016'
-  server: 69.48.201.136
-  type: vless
-  udp: true
-  uuid: 03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a
-  ws-opts:
-    headers:
-      Host: ''
-      User-Agent: Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko)
-        Chrome/70.0.3538.67 Safari/537.36
-    path: /usserver
-  xudp: true
 - alterId: '0'
   cipher: auto
-  name: NodeHub | 🇺🇸US_16|1.5MB/s
-  network: tcp
-  port: 1270
-  server: 172.111.36.147
-  servername: xmfhlpy.com
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
-  xudp: true
-- alterId: '0'
-  cipher: auto
-  name: NodeHub | 🇺🇸US_17|1001KB/s
+  name: NodeHub | 🇺🇸US_15|1.1MB/s
   network: tcp
   port: '1270'
   server: 172.111.36.126
@@ -147,41 +136,12 @@ proxies:
   udp: true
   uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
   xudp: true
-- client-fingerprint: chrome
-  encryption: none
-  flow: xtls-rprx-vision
-  name: NodeHub | 🇺🇸US_18|932KB/s
-  network: tcp
-  port: '443'
-  reality-opts:
-    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
-    short-id: c39cc7310a
-  server: 169.40.42.163
-  servername: yahoo.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
-  xudp: true
 - alterId: '0'
   cipher: auto
-  name: NodeHub | 🇺🇸US_19|555KB/s
-  network: tcp
-  port: '1270'
-  server: 216.106.182.225
-  servername: xmfhlpy.com
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
-  xudp: true
-- alterId: '0'
-  cipher: auto
-  name: NodeHub | 🇺🇸US_20|621KB/s
+  name: NodeHub | 🇺🇸US_16|795KB/s
   network: tcp
   port: 1270
-  server: 172.111.38.246
+  server: 162.251.62.42
   servername: xmfhlpy.com
   skip-cert-verify: false
   tls: true
@@ -189,97 +149,13 @@ proxies:
   udp: true
   uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
   xudp: true
-- client-fingerprint: chrome
-  encryption: none
-  flow: xtls-rprx-vision
-  name: NodeHub | 🇺🇸US_21|2.2MB/s
-  network: raw
-  port: '443'
-  reality-opts:
-    public-key: ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk
-    short-id: 0990d22f
-  server: 167.17.69.171
-  servername: www.cloudflare.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 00144519-7e0d-476b-8d28-435576af9262
-  xudp: true
-- name: NodeHub | 🇺🇸US_22|1.2MB/s
-  network: ws
-  port: '30016'
-  server: uspanel.unixzone.us
-  type: vless
-  udp: true
-  uuid: 03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a
-  ws-opts:
-    headers:
-      Host: uspanel.unixzone.us
-      User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/41.0.2272.76 Safari/537.36
-    path: /usserver
-  xudp: true
-- cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_23|1.5MB/s
-  password: pKEW8JPByTVTLtM
-  port: '4444'
-  server: 15.204.247.244
-  type: ss
-  udp: true
-- client-fingerprint: ios
-  flow: xtls-rprx-vision
-  name: NodeHub | 🇺🇸US_24|929KB/s
-  network: raw
-  port: '443'
-  reality-opts:
-    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
-    short-id: c39cc7310a
-  server: 169.40.42.163
-  servername: yahoo.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
-  xudp: true
-- cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_25|585KB/s
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: '19999'
-  server: 38.143.66.146
-  type: ss
-  udp: true
-- cipher: rc4-md5
-  name: NodeHub | 🇺🇸US_26|983KB/s
-  password: 14fFPrbezE3HDZzsMOr6
-  port: '8080'
-  server: 79.110.54.250
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_27|1.5MB/s
-  password: pKEW8JPByTVTLtM
-  port: '443'
-  server: 15.204.247.244
-  type: ss
-  udp: true
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇺🇸US_28|2.4MB/s
-  obfs: ''
-  obfs-password: ''
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: '443'
-  server: vpn-us-004.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-us-004.fastervpn.world
-  type: hysteria2
-  up: ''
-- alterId: 0
+- alterId: '0'
   cipher: auto
-  name: NodeHub | 🇺🇸US_29|797KB/s
-  network: raw
+  name: NodeHub | 🇺🇸US_17|1.2MB/s
+  network: tcp
   port: 18000
   server: 84.17.41.2
+  servername: community.fastly.steamstatic.com
   skip-cert-verify: false
   tls: false
   type: vmess
@@ -287,26 +163,43 @@ proxies:
   uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
   xudp: true
 - cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_30|1.1MB/s
-  password: kDWvXYZoTBcGkC4
-  port: '8882'
-  server: 15.204.233.41
+  name: NodeHub | 🇺🇸US_18|987KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: '19999'
+  server: 38.143.66.146
   type: ss
   udp: true
 - client-fingerprint: chrome
-  name: NodeHub | 🇺🇸US_31|1.0MB/s
+  flow: xtls-rprx-vision
+  name: NodeHub | 🇺🇸US_19|676KB/s
   network: tcp
-  password: ae7eb4dwyaz25pxwgq59
-  port: '59689'
-  server: 66.23.203.21
-  skip-cert-verify: true
-  sni: 66.23.203.21
-  type: trojan
+  port: '443'
+  reality-opts:
+    public-key: vmHHRwA9ER6c8dfgtL-gh2HBMCvjySy1xLimqYpLiCI
+    short-id: ''
+  server: 198.247.127.131
+  servername: addons.mozilla.org
+  tls: true
+  type: vless
   udp: true
+  uuid: 59548d2d-5d7c-4328-aa81-0d5614da0c1b
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: NodeHub | 🇺🇸US_20|755KB/s
+  obfs: salamander
+  obfs-password: ZuPf4OcXKvotJdDxlTus
+  password: YV1sd3tfCZngTtnvRmy7
+  port: '443'
+  server: 206.189.229.48
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  type: hysteria2
+  up: ''
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: NodeHub | 🇺🇸US_32|699KB/s
-  network: tcp?type=tcp
+  name: NodeHub | 🇺🇸US_21|1.4MB/s
+  network: raw
   port: '443'
   reality-opts:
     public-key: ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk
@@ -320,35 +213,7 @@ proxies:
   xudp: true
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇺🇸US_33|1.0MB/s
-  obfs: ''
-  obfs-password: ''
-  password: 4afd4e1b1b0edd429b10d800a1cf64a7
-  port: '8443'
-  server: 47.89.232.46
-  skip-cert-verify: true
-  sni: hysteria2.local
-  type: hysteria2
-  up: ''
-- client-fingerprint: chrome
-  encryption: none
-  flow: xtls-rprx-vision
-  name: NodeHub | 🇺🇸US_34|709KB/s
-  network: raw
-  port: '16016'
-  reality-opts:
-    public-key: k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0
-    short-id: 48050fab
-  server: 67.220.73.204
-  servername: www.apple.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 814bd064-544d-4255-a070-5705c03f6da9
-  xudp: true
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇺🇸US_35|1.3MB/s
+  name: NodeHub | 🇺🇸US_22|1.9MB/s
   obfs: ''
   obfs-password: ''
   password: gf1:gfhysteria2024
@@ -358,18 +223,3 @@ proxies:
   sni: 66.94.121.46
   type: hysteria2
   up: ''
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: NodeHub | 🇺🇸US_36|1.8MB/s
-  network: tcp
-  port: '443'
-  reality-opts:
-    public-key: xPnpkXu5qfwIArlHKvJsqKJnGdGbJK1tT2GzWMyLohA
-    short-id: 9c56fddf237e8eaf
-  server: 195.211.98.43
-  servername: www.cloudflare.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 1b4b11d5-4c2d-4533-9a55-636757cdee94
-  xudp: true
