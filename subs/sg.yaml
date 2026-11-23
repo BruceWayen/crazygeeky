@@ -1,26 +1,27 @@
 proxies:
-- cipher: aes-256-gcm
-  name: NodeHub | 🇸🇬SG_1|672KB/s
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 149.88.107.47
-  type: ss
-- alterId: '0'
-  cipher: auto
-  name: NodeHub | 🇸🇬SG_2|878KB/s
-  network: tcp
-  port: '1270'
-  server: 15.235.144.92
-  servername: xmfhlpy.com
-  skip-cert-verify: false
-  tls: true
-  type: vmess
+- name: NodeHub | 🇸🇬SG_1|2.3MB/s
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 47.129.241.99
+  skip-cert-verify: true
+  sni: 47.129.241.99
+  tls: false
+  type: hysteria2
+- auth: 57beeeb0-03fc-4fc9-94da-7604488a7134
+  name: NodeHub | 🇸🇬SG_2|766KB/s
+  obfs: salamander
+  obfs-password: sj1awrdwnn5lbuno
+  password: 57beeeb0-03fc-4fc9-94da-7604488a7134
+  port: 443
+  server: bgsg2.hikigo.com
+  skip-cert-verify: true
+  sni: bgsg2.hikigo.com
+  tls: false
+  type: hysteria2
   udp: true
-  uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
-  xudp: true
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇸🇬SG_3|1.9MB/s
+  name: NodeHub | 🇸🇬SG_3|1.3MB/s
   obfs: ''
   obfs-password: ''
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
@@ -32,7 +33,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇸🇬SG_4|1.0MB/s
+  name: NodeHub | 🇸🇬SG_4|1.6MB/s
   obfs: ''
   obfs-password: ''
   password: f87376e17da040ed04c9665ce8972930
@@ -44,7 +45,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇸🇬SG_5|1.2MB/s
+  name: NodeHub | 🇸🇬SG_5|1.4MB/s
   obfs: ''
   obfs-password: ''
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
@@ -56,19 +57,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇸🇬SG_6|1.1MB/s
-  obfs: ''
-  obfs-password: ''
-  password: f87376e17da040ed04c9665ce8972930
-  port: '50160'
-  server: 138.2.73.238
-  skip-cert-verify: true
-  sni: www.bing.com
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇸🇬SG_7|1.5MB/s
+  name: NodeHub | 🇸🇬SG_6|1.7MB/s
   obfs: ''
   obfs-password: ''
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
@@ -78,13 +67,3 @@ proxies:
   sni: vpn-sg-001.fastervpn.world
   type: hysteria2
   up: ''
-- client-fingerprint: chrome
-  name: NodeHub | 🇸🇬SG_8|888KB/s
-  network: tcp
-  password: sshs8_6481354771
-  port: '2087'
-  server: 86.38.247.109
-  skip-cert-verify: false
-  sni: ul-singapore1.09vpn.com
-  type: trojan
-  udp: true
