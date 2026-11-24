@@ -1,109 +1,108 @@
 proxies:
 - cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_1|698KB/s
+  name: NodeHub | 🇺🇸US_1|2.2MB/s
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 185.230.230.18
+  server: 193.151.163.18
   type: ss
 - cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_2|622KB/s
+  name: NodeHub | 🇺🇸US_2|940KB/s
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 38.121.43.225
+  server: 38.128.66.32
   type: ss
-- name: NodeHub | 🇺🇸US_3|766KB/s
-  password: ''
-  port: 443
-  server: 149.88.21.129
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-  username: ''
-  x-toolall-mihomo: true
 - cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_4|529KB/s
+  name: NodeHub | 🇺🇸US_3|653KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 172.111.38.72
+  type: ss
+- cipher: aes-256-gcm
+  name: NodeHub | 🇺🇸US_4|512KB/s
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: '19999'
-  server: 149.40.57.135
-  type: ss
-  udp: true
-- cipher: rc4-md5
-  name: NodeHub | 🇺🇸US_5|1.5MB/s
-  password: 14fFPrbezE3HDZzsMOr6
-  port: '8080'
-  server: 98.98.79.198
+  server: 38.22.17.139
   type: ss
   udp: true
 - client-fingerprint: chrome
-  name: NodeHub | 🇺🇸US_6|875KB/s
+  name: NodeHub | 🇺🇸US_5|542KB/s
   network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: '443'
-  server: 167.88.61.52
+  server: 170.101.101.19
   skip-cert-verify: false
-  sni: courses.browseseniorrolesandenhanceyourcareertoday.com
+  sni: learn.explorecreativejobsandenhanceyourcareerportfolio.com
   type: trojan
   udp: true
 - client-fingerprint: chrome
-  name: NodeHub | 🇺🇸US_7|592KB/s
+  name: NodeHub | 🇺🇸US_6|535KB/s
   network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: '443'
-  server: 170.101.101.237
+  server: 216.152.155.176
   skip-cert-verify: false
-  sni: cdn.explorecreativejobsandenhanceyourcareerportfolio.com
+  sni: blog.nextjobopportunityandclaimyouridealrole.com
   type: trojan
   udp: true
 - client-fingerprint: chrome
-  name: NodeHub | 🇺🇸US_8|1.2MB/s
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  port: '443'
-  server: 170.101.101.53
-  skip-cert-verify: false
-  sni: www.explorecreativejobsandenhanceyourcareerportfolio.com
-  type: trojan
-  udp: true
-- client-fingerprint: chrome
-  name: NodeHub | 🇺🇸US_9|675KB/s
+  name: NodeHub | 🇺🇸US_7|947KB/s
   network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: '443'
-  server: 216.152.155.158
+  server: 216.152.156.159
   skip-cert-verify: false
-  sni: resources.nextjobopportunityandclaimyouridealrole.com
+  sni: resources.healthcarejobshubenhancemedicalprofessionalskillstoday.com
   type: trojan
   udp: true
 - client-fingerprint: chrome
-  name: NodeHub | 🇺🇸US_10|1.1MB/s
+  name: NodeHub | 🇺🇸US_8|524KB/s
   network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: '443'
-  server: 66.163.122.113
+  server: 66.163.122.7
   skip-cert-verify: false
-  sni: api.searchnationwidecareerchangehelperandguidancetoday.com
+  sni: www.searchnationwidecareerchangehelperandguidancetoday.com
   type: trojan
   udp: true
-- client-fingerprint: chrome
+- alpn:
+  - http/1.1
+  client-fingerprint: unsafe
   encryption: none
-  flow: xtls-rprx-vision
-  name: NodeHub | 🇺🇸US_11|582KB/s
-  network: tcp
-  port: '10444'
-  reality-opts:
-    public-key: 0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo
-    short-id: 8debcf36f1cc69ff
-  server: 45.138.100.248
-  servername: ads.x5.ru
+  name: NodeHub | 🇺🇸US_9|867KB/s
+  network: ws
+  port: '443'
+  server: 188.114.98.0
+  servername: ws.liuzedong.ltd
   tls: true
   type: vless
   udp: true
-  uuid: ae908ff5-f749-402c-af25-e6e9aef4d6bb
+  uuid: FCEAD694-2E27-4EEB-8836-9D4ACF3E028B
+  ws-opts:
+    headers:
+      Host: ws.liuzedong.ltd
+      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+        Chrome/41.0.2228.0 Safari/537.36
+    path: /ws
+  xudp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: NodeHub | 🇺🇸US_10|730KB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.163
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
   xudp: true
 - client-fingerprint: chrome
   encryption: none
   flow: xtls-rprx-vision
-  name: NodeHub | 🇺🇸US_12|1.9MB/s
+  name: NodeHub | 🇺🇸US_11|2.2MB/s
   network: tcp
   port: '443'
   reality-opts:
@@ -117,49 +116,39 @@ proxies:
   uuid: d65cc14c-f53f-4fe2-b262-97856601319c
   xudp: true
 - client-fingerprint: chrome
+  encryption: none
   flow: xtls-rprx-vision
-  name: NodeHub | 🇺🇸US_13|1.5MB/s
-  network: raw
+  name: NodeHub | 🇺🇸US_12|2.0MB/s
+  network: tcp
   port: '443'
   reality-opts:
     public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
     short-id: c39cc7310a
-  server: 169.40.42.229
+  server: 169.40.42.74
   servername: yahoo.com
   tls: true
   type: vless
   udp: true
   uuid: d65cc14c-f53f-4fe2-b262-97856601319c
   xudp: true
-- alterId: '0'
+- alpn:
+  - ''
+  alterId: '0'
   cipher: auto
-  name: NodeHub | 🇺🇸US_14|1.3MB/s
+  name: NodeHub | 🇺🇸US_13|913KB/s
   network: tcp
-  port: 1270
-  server: 38.91.100.16
-  servername: xmfhlpy.com
+  port: '18000'
+  server: 38.110.1.246
+  servername: 38.110.1.246
   skip-cert-verify: false
-  tls: true
+  tls: false
   type: vmess
   udp: true
-  uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
   xudp: true
 - alterId: '0'
   cipher: auto
-  name: NodeHub | 🇺🇸US_15|1.0MB/s
-  network: tcp
-  port: 1270
-  server: 216.106.182.225
-  servername: xmfhlpy.com
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
-  xudp: true
-- alterId: '0'
-  cipher: auto
-  name: NodeHub | 🇺🇸US_16|1.4MB/s
+  name: NodeHub | 🇺🇸US_14|517KB/s
   network: tcp
   port: '18000'
   server: 38.110.1.246
@@ -170,26 +159,15 @@ proxies:
   udp: true
   uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
   xudp: true
-- alterId: '0'
+- alpn:
+  - ''
+  alterId: '0'
   cipher: auto
-  name: NodeHub | 🇺🇸US_17|709KB/s
-  network: tcp
-  port: 1270
-  server: 38.128.66.241
-  servername: xmfhlpy.com
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
-  xudp: true
-- alterId: '0'
-  cipher: auto
-  name: NodeHub | 🇺🇸US_18|834KB/s
+  name: NodeHub | 🇺🇸US_15|1.1MB/s
   network: tcp
   port: 18000
   server: 84.17.41.2
-  servername: community.fastly.steamstatic.com
+  servername: server22.9966338.xyz
   skip-cert-verify: false
   tls: false
   type: vmess
@@ -198,18 +176,49 @@ proxies:
   xudp: true
 - alterId: 0
   cipher: auto
-  name: NodeHub | 🇺🇸US_19|807KB/s
-  network: raw
-  port: 18000
-  server: 38.110.1.246
+  name: NodeHub | 🇺🇸US_16|751KB/s
+  network: tcp
+  port: '18000'
+  server: 84.17.41.2
+  servername: bj1aa2zyjxyamyuk.v.3dns.vip
   skip-cert-verify: false
   tls: false
   type: vmess
   udp: true
   uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
   xudp: true
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
+  name: NodeHub | 🇺🇸US_17|1.1MB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.231
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+  xudp: true
 - client-fingerprint: chrome
-  name: NodeHub | 🇺🇸US_20|1.3MB/s
+  flow: xtls-rprx-vision
+  name: NodeHub | 🇺🇸US_18|1.2MB/s
+  network: raw
+  port: '443'
+  reality-opts:
+    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
+    short-id: c39cc7310a
+  server: 169.40.42.90
+  servername: yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+  xudp: true
+- client-fingerprint: chrome
+  name: NodeHub | 🇺🇸US_19|959KB/s
   network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: '443'
@@ -218,27 +227,15 @@ proxies:
   sni: ekb.eg
   type: trojan
   udp: true
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇺🇸US_21|1.3MB/s
-  obfs: ''
-  obfs-password: ''
-  password: AIcYjw5Oc9Rrrr9SGDUBbBIC
-  port: '36712'
-  server: 38.76.150.108
-  skip-cert-verify: true
-  sni: 38.76.150.108
-  type: hysteria2
-  up: ''
-- client-fingerprint: ios
+- client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: NodeHub | 🇺🇸US_22|1.2MB/s
+  name: NodeHub | 🇺🇸US_20|724KB/s
   network: raw
   port: '443'
   reality-opts:
     public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
     short-id: c39cc7310a
-  server: 169.40.42.168
+  server: 169.40.42.89
   servername: yahoo.com
   tls: true
   type: vless
@@ -246,44 +243,40 @@ proxies:
   uuid: d65cc14c-f53f-4fe2-b262-97856601319c
   xudp: true
 - client-fingerprint: chrome
-  name: NodeHub | 🇺🇸US_23|806KB/s
+  encryption: none
+  flow: xtls-rprx-vision
+  name: NodeHub | 🇺🇸US_21|937KB/s
   network: tcp
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: '443'
-  server: 66.163.122.7
-  skip-cert-verify: true
-  sni: www.searchnationwidecareerchangehelperandguidancetoday.com%23%F0%9F%92%AB65%40oneclickvpnkeys
-  type: trojan
+  reality-opts:
+    public-key: 4RaNuv9yehmcfpdzvRxCWWzEWERWzZSIHqcgg3l35Cw
+    short-id: e16bbf1a5bee2321
+  server: 5.34.178.120
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
   udp: true
-- cipher: rc4-md5
-  name: NodeHub | 🇺🇸US_24|600KB/s
-  password: 14fFPrbezE3HDZzsMOr6
-  port: '8080'
-  server: 138.199.42.68
-  type: ss
+  uuid: 23b848b7-93e5-4d96-b36d-ed704912e5b7
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: NodeHub | 🇺🇸US_22|727KB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: rA1BaV8FUcTMs25jXCZkUV3DG0-NQEFmvVHdPlUXAHI
+    short-id: d898752d58acbfe0
+  server: 45.61.186.3
+  servername: caissuers.microsoft.com
+  tls: true
+  type: vless
   udp: true
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇺🇸US_25|1.4MB/s
-  obfs: ''
-  obfs-password: ''
-  password: fa937345-6d3e-4ff4-8127-1a836987a0db
-  port: '6443'
-  server: 195.63.138.212
-  skip-cert-verify: false
-  sni: cloudehouse24.ru
-  type: hysteria2
-  up: ''
-- cipher: aes-256-gcm
-  name: NodeHub | 🇺🇸US_26|642KB/s
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: '19999'
-  server: 38.91.107.19
-  type: ss
-  udp: true
+  uuid: 140d6fc9-2c6d-41bd-a487-182b52c0184f
+  xudp: true
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: NodeHub | 🇺🇸US_27|655KB/s
+  name: NodeHub | 🇺🇸US_23|1.1MB/s
   network: tcp?type=tcp
   port: '443'
   reality-opts:
@@ -297,33 +290,22 @@ proxies:
   uuid: 00144519-7e0d-476b-8d28-435576af9262
   xudp: true
 - client-fingerprint: chrome
-  name: NodeHub | 🇺🇸US_28|1.1MB/s
+  name: NodeHub | 🇺🇸US_24|529KB/s
   network: tcp
   password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
   port: '443'
-  server: 167.88.61.85
-  skip-cert-verify: false
-  sni: resources.browseseniorrolesandenhanceyourcareertoday.com
+  server: 66.163.122.81
+  skip-cert-verify: true
+  sni: 66.163.122.81
   type: trojan
   udp: true
-- cipher: rc4-md5
-  name: NodeHub | 🇺🇸US_29|1.6MB/s
-  password: 14fFPrbezE3HDZzsMOr6
-  port: '8080'
-  server: 138.199.43.159
-  type: ss
-  udp: true
-- alpn:
-  - h3
-  auth-str: dongtaiwang.com
-  down: '55'
-  name: NodeHub | 🇺🇸US_30|654KB/s
-  password: dongtaiwang.com
-  port: 11008
-  server: 38.6.222.131
-  servername: bing.com
+- client-fingerprint: chrome
+  name: NodeHub | 🇺🇸US_25|850KB/s
+  network: tcp
+  password: nwilryafgkyvuxauc8pz
+  port: '50875'
+  server: 69.164.240.85
   skip-cert-verify: true
-  sni: bing.com
-  tls: true
-  type: hysteria
-  up: '11'
+  sni: 69.164.240.85
+  type: trojan
+  udp: true
