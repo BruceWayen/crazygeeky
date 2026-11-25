@@ -1,17 +1,24 @@
 proxies:
 - cipher: aes-256-gcm
-  name: NodeHub | 🇸🇬SG_1|928KB/s
+  name: NodeHub | 🇸🇬SG_1|1.1MB/s
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 149.88.106.74
   type: ss
+- cipher: aes-256-gcm
+  name: NodeHub | 🇸🇬SG_2|2.5MB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: '19999'
+  server: leviko-sg2619.shopingggg.ir
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
-  name: NodeHub | 🇸🇬SG_2|1.1MB/s
+  name: NodeHub | 🇸🇬SG_3|2.4MB/s
   network: tcp
   port: '18000'
   server: 149.88.23.207
-  servername: ww11.levikogjgfdd.ir
+  servername: 149.88.23.207
   skip-cert-verify: false
   tls: false
   type: vmess
@@ -20,7 +27,7 @@ proxies:
   xudp: true
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇸🇬SG_3|792KB/s
+  name: NodeHub | 🇸🇬SG_4|1014KB/s
   obfs: ''
   obfs-password: ''
   password: f87376e17da040ed04c9665ce8972930
@@ -30,9 +37,25 @@ proxies:
   sni: 138.2.73.238
   type: hysteria2
   up: ''
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  name: NodeHub | 🇸🇬SG_5|774KB/s
+  network: tcp
+  port: '443'
+  reality-opts:
+    public-key: tF9nKF6amexok5wKbieQ2QRKQI5_ZTFE6MUj1hUBBkY
+    short-id: c940a3b6d60b8611
+  server: 140.245.113.33
+  servername: learn.microsoft.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: f4ca59b2-767d-3425-8dfc-95a96a0e6802
+  xudp: true
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇸🇬SG_4|2.2MB/s
+  name: NodeHub | 🇸🇬SG_6|1.8MB/s
   obfs: ''
   obfs-password: ''
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
@@ -40,17 +63,5 @@ proxies:
   server: 47.129.241.99
   skip-cert-verify: true
   sni: 127.0.0.1
-  type: hysteria2
-  up: ''
-- down: ''
-  fingerprint: ''
-  name: NodeHub | 🇸🇬SG_5|775KB/s
-  obfs: ''
-  obfs-password: ''
-  password: f87376e17da040ed04c9665ce8972930
-  port: '50160'
-  server: 138.2.73.238
-  skip-cert-verify: true
-  sni: www.bing.com
   type: hysteria2
   up: ''
