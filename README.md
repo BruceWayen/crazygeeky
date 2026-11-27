@@ -26,16 +26,16 @@
 
 <!-- STATS:START -->
 
-**最近更新：2026-11-28 00:16（北京时间）**｜存活节点 **265**｜存活率 **66.2%**
+**最近更新：2026-11-28 06:16（北京时间）**｜存活节点 **267**｜存活率 **66.8%**
 
 | 地区 | 存活数 | 订阅文件（Clash 格式） | 详情页 |
 | --- | --- | --- | --- |
-| 美国 | 36 | [us.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/us.yaml) | [/nodes/us/](https://crazygeeky.com/nodes/us.html) |
-| 日本 | 1 | 数量少于 5，暂不提供 | — |
-| 新加坡 | 10 | [sg.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/sg.yaml) | [/nodes/sg/](https://crazygeeky.com/nodes/sg.html) |
-| 香港 | 44 | [hk.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/hk.yaml) | [/nodes/hk/](https://crazygeeky.com/nodes/hk.html) |
-| 台湾 | 20 | [tw.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/tw.yaml) | [/nodes/tw/](https://crazygeeky.com/nodes/tw.html) |
-| 其他 | 154 | [other.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/other.yaml) | [/nodes/other/](https://crazygeeky.com/nodes/other.html) |
+| 美国 | 35 | [us.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/us.yaml) | [/nodes/us/](https://crazygeeky.com/nodes/us.html) |
+| 日本 | 0 | 数量少于 5，暂不提供 | — |
+| 新加坡 | 4 | 数量少于 5，暂不提供 | — |
+| 香港 | 37 | [hk.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/hk.yaml) | [/nodes/hk/](https://crazygeeky.com/nodes/hk.html) |
+| 台湾 | 18 | [tw.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/tw.yaml) | [/nodes/tw/](https://crazygeeky.com/nodes/tw.html) |
+| 其他 | 173 | [other.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/other.yaml) | [/nodes/other/](https://crazygeeky.com/nodes/other.html) |
 
 | 解锁 | 存活数 | 订阅文件（Clash 格式） | 详情页 |
 | --- | --- | --- | --- |
