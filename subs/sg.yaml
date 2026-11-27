@@ -1,13 +1,43 @@
 proxies:
 - cipher: aes-256-gcm
-  name: NodeHub | 🇸🇬SG_1|1.3MB/s
+  name: NodeHub | 🇸🇬SG_1|619KB/s
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 149.88.106.73
+  server: 149.88.106.74
   type: ss
+- cipher: aes-256-gcm
+  name: NodeHub | 🇸🇬SG_2|730KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 15.235.182.183
+  type: ss
+- cipher: aes-256-gcm
+  name: NodeHub | 🇸🇬SG_3|986KB/s
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 15.235.164.133
+  type: ss
+- client-fingerprint: chrome
+  encryption: none
+  name: NodeHub | 🇸🇬SG_4|1.1MB/s
+  network: ws
+  port: '8443'
+  server: 141.193.213.20
+  servername: matrix.learnpodedu.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4d8d9640-7cc7-4c55-ba54-6ce0d1709541
+  ws-opts:
+    headers:
+      Host: matrix.learnpodedu.com
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/54.0.2840.99 Safari/537.36
+    path: /
+  xudp: true
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇸🇬SG_2|677KB/s
+  name: NodeHub | 🇸🇬SG_5|1.1MB/s
   obfs: ''
   obfs-password: ''
   password: f87376e17da040ed04c9665ce8972930
@@ -17,25 +47,9 @@ proxies:
   sni: 138.2.73.238
   type: hysteria2
   up: ''
-- client-fingerprint: chrome
-  encryption: none
-  flow: xtls-rprx-vision
-  name: NodeHub | 🇸🇬SG_3|1006KB/s
-  network: tcp
-  port: '443'
-  reality-opts:
-    public-key: tF9nKF6amexok5wKbieQ2QRKQI5_ZTFE6MUj1hUBBkY
-    short-id: c940a3b6d60b8611
-  server: 140.245.113.33
-  servername: learn.microsoft.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: f4ca59b2-767d-3425-8dfc-95a96a0e6802
-  xudp: true
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇸🇬SG_4|937KB/s
+  name: NodeHub | 🇸🇬SG_6|1.2MB/s
   obfs: ''
   obfs-password: ''
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
@@ -47,7 +61,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇸🇬SG_5|705KB/s
+  name: NodeHub | 🇸🇬SG_7|611KB/s
   obfs: ''
   obfs-password: ''
   password: f87376e17da040ed04c9665ce8972930
@@ -59,7 +73,7 @@ proxies:
   up: ''
 - down: ''
   fingerprint: ''
-  name: NodeHub | 🇸🇬SG_6|1.0MB/s
+  name: NodeHub | 🇸🇬SG_8|513KB/s
   obfs: ''
   obfs-password: ''
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
@@ -69,3 +83,23 @@ proxies:
   sni: 47.129.241.99
   type: hysteria2
   up: ''
+- alpn:
+  - h2
+  client-fingerprint: chrome
+  encryption: none
+  name: NodeHub | 🇸🇬SG_9|765KB/s
+  network: ws
+  port: '8443'
+  server: news.zoom.us
+  servername: matrix.learnpodedu.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4d8d9640-7cc7-4c55-ba54-6ce0d1709541
+  ws-opts:
+    headers:
+      Host: matrix.learnpodedu.com
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/69.0.3497.100 Safari/537.36
+    path: /
+  xudp: true
