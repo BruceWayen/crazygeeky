@@ -26,16 +26,16 @@ Not sure which one? **Use `mihomo.yaml` for Clash-family clients and `base64.txt
 
 <!-- STATS:START -->
 
-**Last updated: 2026-11-28 06:16 (UTC+8)** | Alive nodes **267** | Alive rate **66.8%**
+**Last updated: 2026-11-28 12:15 (UTC+8)** | Alive nodes **277** | Alive rate **69.1%**
 
 | Region | Alive | Subscription (Clash format) | Details |
 | --- | --- | --- | --- |
-| United States | 35 | [us.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/us.yaml) | [/nodes/us/](https://crazygeeky.com/nodes/us.html) |
-| Japan | 0 | fewer than 5, not provided | — |
-| Singapore | 4 | fewer than 5, not provided | — |
-| Hong Kong | 37 | [hk.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/hk.yaml) | [/nodes/hk/](https://crazygeeky.com/nodes/hk.html) |
-| Taiwan | 18 | [tw.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/tw.yaml) | [/nodes/tw/](https://crazygeeky.com/nodes/tw.html) |
-| Other | 173 | [other.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/other.yaml) | [/nodes/other/](https://crazygeeky.com/nodes/other.html) |
+| United States | 11 | [us.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/us.yaml) | [/nodes/us/](https://crazygeeky.com/nodes/us.html) |
+| Japan | 2 | fewer than 5, not provided | — |
+| Singapore | 3 | fewer than 5, not provided | — |
+| Hong Kong | 36 | [hk.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/hk.yaml) | [/nodes/hk/](https://crazygeeky.com/nodes/hk.html) |
+| Taiwan | 14 | [tw.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/tw.yaml) | [/nodes/tw/](https://crazygeeky.com/nodes/tw.html) |
+| Other | 211 | [other.yaml](https://raw.githubusercontent.com/BruceWayen/crazygeeky/main/subs/other.yaml) | [/nodes/other/](https://crazygeeky.com/nodes/other.html) |
 
 | Unlock | Alive | Subscription (Clash format) | Details |
 | --- | --- | --- | --- |
